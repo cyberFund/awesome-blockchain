@@ -7,8 +7,9 @@ Skycoin - [Papers](https://github.com/skycoin/whitepapers), [Thread](http://foru
 
 [Colored Coins](http://coloredcoins.org/) - [Paper](https://github.com/OpenAssets/open-assets-protocol/blob/master/specification.mediawiki),  [Google Group](https://groups.google.com/forum/#!forum/bitcoinx). [Github](https://github.com/bitcoinx).
 
-Mastercoin
-Maidsafe
+Mastercoin 
+[Maidsafe](http://maidsafe.net/) - [Paper](https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md),([Wiki](hhttps://github.com/maidsafe/MaidSafe/wiki), [Forum](https://maidsafe.org/), [Development Community](https://groups.google.com/forum/#!forum/maidsafe-development), [Github](https://github.com/bitcoin), [Blog](http://blog.maidsafe.net/)
+
 Ripple
 Next
 Bytecoin
@@ -18,9 +19,9 @@ Dogecoin
 Namecoin
 Peercoin
 Quark
-Blackcoin
+[Blackcoin](http://www.blackcoin.co/) - [Paper](http://www.blackcoin.co/blackcoin-pos-protocol-v2-whitepaper.pdf), [Wiki](http://en.bitcoinwiki.org/blackcoin), [Reddit](http://www.reddit.com/r/blackcoin/), [Explorer](http://blackcha.in/), [Github](https://github.com/rat4/blackcoin)
 Vericoin
-Counterparty
+[Counterparty](https://www.counterparty.co/) - [Paper](https://github.com/CounterpartyXCP/Counterparty), [Wiki](https://wiki.counterparty.co), [Forum](https://forums.counterparty.co/), [Explorer](http://www.counterpartyexplorer.com/), [Github](https://github.com/CounterpartyXCP/counterpartyd)
 Primecoin
 Monero 
 Neitrino
