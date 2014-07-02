@@ -1,21 +1,3 @@
-О дайждесте
-===========
-
-На хабре последнее время стало достаточно много интересных тематических дайждестов. Хотим продолжить эту верную традицию. 
-Мы с ребятами достаточно глубоко погрузились в Биткоин, и созданный им удивительный мир интеллектуальных сетей.
-Мы постараемся делиться интересностями в этом дайджесте. Периодичность утрясется сама собой. Предложения - кому удобно - в комментариях, а кто поглубже - на Github. Дайджест автособирается в книгу при помощи Gitbook.
-
-Эволюция интеллектуальных сетей - это подборка того, с чем мы столкнулись в мире и что считаем достаточно важным. Первый выпуск будет связан скорее всего с тем, что накопилось, c самым важным, а не с самым свежем. Постепенно добавим новостной оттенок.
-
-Куда помещать подобную подборку?
-На данный момент выбрали: Bitcoin, Сетевые технологии и, пожалуй, самое удивительное - искусственный интеллект. Об этом отдельно. Буду благодарен за предложения об оптимизиации хабов для размещения.
-
-Отдельный момент по структурированию дайджеста. Мир криптовалютных сетей оказался настолько комплексным, что все что там происходит можно классифицировать в невероятно большом количестве измерений, поэтому дайждест будет структурироваться от того, кому это надо. 
-
-# Summary
-
-* [#1](book/digest-01.md)
-
 # Протоколы
 [Bitcoin](https://bitcoin.org/en/) - [Paper](https://bitcoin.org/bitcoin.pdf),([Wiki](https://en.bitcoin.it/wiki/Main_Page), [Forum](https://bitcoinfoundation.org/forum/), [Explorer](https://blockchain.info/), [Github](https://github.com/bitcoin), [Blog](https://bitcoinfoundation.org/blog/).
 
@@ -25,8 +7,7 @@ Skycoin - [Papers](https://github.com/skycoin/whitepapers), [Thread](http://foru
 
 [Colored Coins](http://coloredcoins.org/) - [Paper](https://github.com/OpenAssets/open-assets-protocol/blob/master/specification.mediawiki),  [Google Group](https://groups.google.com/forum/#!forum/bitcoinx). [Github](https://github.com/bitcoinx).
 
-[Mastercoin](http://www.mastercoin.org/) - [Paper](https://github.com/mastercoin-MSC/spec), [Wiki](http://wiki.mastercoin.org/index.php/Main_Page), [Forum](http://www.mastercointalk.org/),[Blog](http://blog.mastercoin.org/), [Explorer](https://masterchain.info/), [Githib](https://github.com/mastercoin-MSC), 
-
+Mastercoin 
 [Maidsafe](http://maidsafe.net/) - [Paper](https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md),([Wiki](hhttps://github.com/maidsafe/MaidSafe/wiki), [Forum](https://maidsafe.org/), [Development Community](https://groups.google.com/forum/#!forum/maidsafe-development), [Github](https://github.com/bitcoin), [Blog](http://blog.maidsafe.net/)
 
 Ripple
@@ -49,6 +30,21 @@ Neitrino
 # Аналитика
 
 
+# Майнинг
+
+# Кошельки
+
+# Платежи
+
+# Биржи
+
+# Банкоматы
+
+# События
+
+# Люди
+
+# Регулирование
 
 
 
@@ -69,22 +65,4 @@ Ripple. Paper. Foundation. Github.
 MaidSafe. Paper. Foundation. Github.
 Mastercoin. Paper. Foundation. Github.
 https://cryptonote.org/
-
-
-
-# Майнинг
-
-# Кошельки
-
-# Платежи
-
-# Биржи
-
-# Банкоматы
-
-# События
-
-# Люди
-
-# Регулирование
 
