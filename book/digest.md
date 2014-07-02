@@ -1,9 +1,12 @@
 # Протоколы
-[Bitcoin](https://bitcoin.org/en/) - [Paper](https://bitcoin.org/bitcoin.pdf),([Wiki](https://en.bitcoin.it/wiki/Main_Page), [Community](https://bitcoinfoundation.org/forum/), [Explorer](https://blockchain.info/), [Github](https://github.com/bitcoin), [Blog](https://bitcoinfoundation.org/blog/)
+[Bitcoin](https://bitcoin.org/en/) - [Paper](https://bitcoin.org/bitcoin.pdf),([Wiki](https://en.bitcoin.it/wiki/Main_Page), [Forum](https://bitcoinfoundation.org/forum/), [Explorer](https://blockchain.info/), [Github](https://github.com/bitcoin), [Blog](https://bitcoinfoundation.org/blog/).
 
-[Etherium](https://www.ethereum.org/) - - [Paper](https://bitcoin.org/bitcoin.pdf),([Wiki](https://en.bitcoin.it/wiki/Main_Page), [Community](https://bitcoinfoundation.org/forum/), [Explorer](https://blockchain.info/), [Github](https://github.com/bitcoin), [Blog](https://bitcoinfoundation.org/blog/)
-Skycoin
-Colored Coins. Foundation. Github.
+[Etherium](https://www.ethereum.org/) - - [Paper](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper),([Wiki](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Ethereum-TOC), [Forum](http://forum.ethereum.org/), [Github](https://github.com/ethereum), [Blog](https://blog.ethereum.org/).
+
+Skycoin - [Papers](https://github.com/skycoin/whitepapers), [Thread](http://forum.ethereum.org/), [Github](https://github.com/skycoin), [Trello](https://trello.com/b/LQd8Gz47/skycoin-development).
+
+[Colored Coins](http://coloredcoins.org/) - [Paper](https://github.com/OpenAssets/open-assets-protocol/blob/master/specification.mediawiki),  [Google Group](https://groups.google.com/forum/#!forum/bitcoinx). [Github](https://github.com/bitcoinx).
+
 Mastercoin
 Maidsafe
 Ripple
