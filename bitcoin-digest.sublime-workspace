@@ -59,14 +59,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "book/digest.md",
-			"settings":
-			{
-				"buffer_size": 2379,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -178,6 +170,8 @@
 	},
 	"file_history":
 	[
+		"/Users/vitalylvov/GitHub/bitcoin-digest/book/digest-01.md",
+		"/Users/vitalylvov/GitHub/bitcoin-digest/book/digest.md",
 		"/Users/vitalylvov/GitHub/bitcoin-digest/bitcoin-digest.sublime-project",
 		"/Users/vitalylvov/Downloads/Выписка Сбер_Jun14.txt",
 		"/Users/vitalylvov/Downloads/Выписка Сбер.rtf",
@@ -348,37 +342,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "book/digest.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2379,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								674,
-								666
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 61.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
