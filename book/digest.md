@@ -11,13 +11,11 @@ Mastercoin
 
 [Maidsafe](http://maidsafe.net) - [Paper](https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md),([Wiki](hhttps://github.com/maidsafe/MaidSafe/wiki), [Forum](https://maidsafe.org), [Development Community](https://groups.google.com/forum/#!forum/maidsafe-development), [Explorer](https://ripple.com/graph), [Github](https://github.com/maidsafe), [Blog](http://blog.maidsafe.net)
 
-
->>>>>>> FETCH_HEAD
 [Ripple](https://ripple.com) - [Paper](https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md),([Wiki](https://ripple.com/wiki), [Forum](https://ripple.com/forum/), [Development Portal](https://dev.ripple.com), [Github](https://github.com/ripple), [Blog](https://ripple.com/blog)
 
 [Next](http://www.nxt.org/) - [Paper](http://wiki.nxtcrypto.org/wiki/Whitepaper:Nxt),([Wiki](http://wiki.nxtcrypto.org/), [Forum](https://nxtforum.org/), [Explorer](http://nxtportal.org/), [Bitbucket](https://bitbucket.org/JeanLucPicard/nxt/src), [Community](http://www.nxtcommunity.org/)
 
-Bytecoin
+[Maidsafe](http://maidsafe.net/) - [Paper](https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md),([Wiki](hhttps://github.com/maidsafe/MaidSafe/wiki), [Forum](https://maidsafe.org/), [Development Community](https://groups.google.com/forum/#!forum/maidsafe-development), [Github](https://github.com/bitcoin), [Blog](http://blog.maidsafe.net/)
 
 [Litecoin](https://litecoin.org) - [Paper](?),([Wiki](https://litecoin.info), [Forum](https://litecointalk.org), [Explorer](http://ltc.block-explorer.com), [Github](https://github.com/litecoin-project), [Reddit](http://www.reddit.com/r/litecoin)
 
