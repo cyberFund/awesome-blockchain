@@ -9,6 +9,8 @@ Skycoin - [Papers](https://github.com/skycoin/whitepapers), [Thread](http://foru
 
 Mastercoin 
 
+[Maidsafe](http://maidsafe.net) - [Paper](https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md),([Wiki](hhttps://github.com/maidsafe/MaidSafe/wiki), [Forum](https://maidsafe.org), [Development Community](https://groups.google.com/forum/#!forum/maidsafe-development), [Explorer](https://ripple.com/graph), [Github](https://github.com/maidsafe), [Blog](http://blog.maidsafe.net)
+
 [Ripple](https://ripple.com) - [Paper](https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md),([Wiki](https://ripple.com/wiki), [Forum](https://ripple.com/forum/), [Development Portal](https://dev.ripple.com), [Github](https://github.com/ripple), [Blog](https://ripple.com/blog)
 
 [Next](http://www.nxt.org/) - [Paper](http://wiki.nxtcrypto.org/wiki/Whitepaper:Nxt),([Wiki](http://wiki.nxtcrypto.org/), [Forum](https://nxtforum.org/), [Explorer](http://nxtportal.org/), [Bitbucket](https://bitbucket.org/JeanLucPicard/nxt/src), [Community](http://www.nxtcommunity.org/)
@@ -36,6 +38,7 @@ Mastercoin
 [Primecoin](http://primecoin.io/) - [Paper](http://primecoin.io/bin/primecoin-paper.pdf),([Wiki](https://github.com/primecoin/primecoin/wiki), [Forum](http://www.peercointalk.org), [Explorer](https://coinplorer.com), [Github](https://github.com/primecoin)
 
 [Monero](http://www.monero.cc/) - [Paper](https://cryptonote.org/whitepaper.pdf),([Wiki](https://en.bitcoin.it/wiki/Main_Page), [Bitcoin Talk Thread](https://bitcointalk.org/index.php?topic=580155), [Explorer](?), [Github](https://github.com/monero-project/bitmonero), [Blog](http://www.monero.cc/blog/index.html)
+
 Neitrino
 
 
