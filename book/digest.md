@@ -15,7 +15,7 @@ Dogecoin
 Namecoin
 Peercoin
 Quark
-Blackcoin
+[Blackcoin][http://www.blackcoin.co/] - [Paper][http://www.blackcoin.co/blackcoin-pos-protocol-v2-whitepaper.pdf], [Wiki] [http://en.bitcoinwiki.org/blackcoin], [Community][http://www.reddit.com/r/blackcoin/], [Explorer][http://blackcha.in/] 
 Vericoin
 Counterparty
 Primecoin
