@@ -170,6 +170,7 @@
 	},
 	"file_history":
 	[
+		"/Users/vitalylvov/GitHub/bitcoin-digest/bitcoin-digest.sublime-workspace",
 		"/Users/vitalylvov/GitHub/bitcoin-digest/book/digest-01.md",
 		"/Users/vitalylvov/GitHub/bitcoin-digest/book/digest.md",
 		"/Users/vitalylvov/GitHub/bitcoin-digest/bitcoin-digest.sublime-project",
@@ -600,7 +601,7 @@
 	{
 	},
 	"show_minimap": false,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 150.0,

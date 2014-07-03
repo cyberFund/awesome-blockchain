@@ -35,25 +35,25 @@ Skycoin - [Papers](https://github.com/skycoin/whitepapers), [Thread](http://foru
 
 [Darkcoin](https://www.darkcoin.io/)- [Paper](https://www.darkcoin.io/downloads/DarkcoinWhitepaper.pdf),([Wiki](http://wiki.darkcoin.eu), [Forum](https://darkcointalk.org), [Explorer](http://explorer.darkcoin.io), [Github](https://github.com/darkcoinproject/darkcoin), [Reddit](http://www.reddit.com/r/DRKCoin)
 
-[Dogecoin](http://dogecoin.com/) - [Paper](?),([Wiki](http://www.dogeco.in/), [Forum](http://doges.org/), [Explorer](https://dogechain.info/), [Github](https://github.com/dogecoin/dogecoin), [Blog](http://blog.dogecoin.com/)
+[Dogecoin](http://dogecoin.com/) - ([Wiki](http://bit.ly/1vA6Lp7), [Forum](http://bit.ly/1mMSiRi), [Explorer](http://bit.ly/1mWkO7S), [Github](http://bit.ly/1iZ2FqB), [Blog](http://bit.ly/1qSHEhd)
 
-[Namecoin](http://namecoin.info) - [Paper](),([Wiki](https://wiki.namecoin.info), [Forum](https://forum.namecoin.info), [Explorer](http://explorer.namecoin.info), [Github](https://github.com/namecoin), [Reddit](http://www.reddit.com/r/Namecoin)
+[Namecoin](http://bit.ly/TEMW3J) - [Wiki](http://bit.ly/1mb1frT), [Forum](http://bit.ly/1t0zZBz), [Explorer](http://bit.ly/VHiS9A), [Github](http://bit.ly/1t0zUOi), [Reddit](http://bit.ly/VgRcrq)
 
-[Peercoin](http://www.peercoin.net) - [Paper](http://www.peercoin.net/whitepaper),[Wiki](https://github.com/ppcoin/ppcoin/wiki), [Forum](http://www.peercointalk.org), [Explorer](http://blockexplorer.ppcointalk.org), [Github](https://github.com/ppcoin)
+[Peercoin](http://bit.ly/1mWky99) - [Paper](http://bit.ly/1mWkzd7),[Wiki](http://bit.ly/1mWktCg), [Forum](http://bit.ly/1mWiAFK), [Explorer](http://bit.ly/1obYTr9), [Github](http://bit.ly/1mWkplX)
 
-[Quark](http://www.qrk.cc/) - [Paper](?),([Wiki](), [Forum](http://forum.qrk.cc/), [Explorer](qrk.blockr.io), [Github](https://github.com/MaxGuevara/quark), [Reddit](http://www.reddit.com/r/QuarkCoin/)
+[Quark](http://www.qrk.cc/) - [Forum](http://bit.ly/1mWkbLJ), [Explorer](http://bit.ly/1mWk6rp), [Github](http://bit.ly/1mWk4ja), [Reddit](http://bit.ly/1mWjX77)
 
-[Blackcoin](http://www.blackcoin.co/) - [Paper](http://www.blackcoin.co/blackcoin-pos-protocol-v2-whitepaper.pdf), [Wiki](http://en.bitcoinwiki.org/blackcoin), [Reddit](http://www.reddit.com/r/blackcoin/), [Explorer](http://blackcha.in/), [Github](https://github.com/rat4/blackcoin)
+[Blackcoin](http://bit.ly/1rgWa4R) - [Paper](http://bit.ly/1mWjTVa), [Wiki](http://bit.ly/1mWjSAz), [Reddit](http://bit.ly/VHieZG), [Explorer](http://bit.ly/1mWjHoF), [Github](http://bit.ly/1mWjGBb)
 
-[Vericoin](http://www.vericoin.info/) - [Paper](?),([Wiki](), [Bitcoin Talk Thread](https://bitcointalk.org/index.php?topic=602041.msg6633326#msg6633326), [Explorer](http://chainz.cryptoid.info/vrc/), [Github](http://www.github.com/vericoin/), [Reddit](http://www.reddit.com/r/vertcoin/)
+[Vericoin](http://bit.ly/1mWjEtf) - [Bitcoin Talk Thread](http://bit.ly/1mWjt15), [Explorer](http://bit.ly/1mWjl1t), [Github](http://bit.ly/1mWjjqt), [Reddit](http://bit.ly/1mMQeZA)
 
-[Counterparty](https://www.counterparty.co/) - [Paper](https://github.com/CounterpartyXCP/Counterparty), [Wiki](https://wiki.counterparty.co), [Forum](https://forums.counterparty.co/), [Explorer](http://www.counterpartyexplorer.com/), [Github](https://github.com/CounterpartyXCP/counterpartyd)
+[Counterparty](http://bit.ly/1mWiXQz) - [Paper](http://bit.ly/1mWiWfu), [Wiki](http://bit.ly/1mWiSfP), [Forum](http://bit.ly/1mWiPjV), [Explorer](http://bit.ly/1mWiNsv), [Github](http://bit.ly/1mWiMEQ)
 
-[Primecoin](http://primecoin.io/) - [Paper](http://primecoin.io/bin/primecoin-paper.pdf),([Wiki](https://github.com/primecoin/primecoin/wiki), [Forum](http://www.peercointalk.org), [Explorer](https://coinplorer.com), [Github](https://github.com/primecoin)
+[Primecoin](http://bit.ly/1mWiIFa) - [Paper](http://bit.ly/1mWiG05),([Wiki](http://bit.ly/1mWiC0g), [Forum](http://bit.ly/1mWiAFK), [Explorer](http://bit.ly/1mWiwpt), [Github](http://bit.ly/1mWipdm)
 
-[Monero](http://www.monero.cc/) - [Paper](https://cryptonote.org/whitepaper.pdf),([Wiki](https://en.bitcoin.it/wiki/Main_Page), [Bitcoin Talk Thread](https://bitcointalk.org/index.php?topic=580155), [Explorer](?), [Github](https://github.com/monero-project/bitmonero), [Blog](http://www.monero.cc/blog/index.html).
+[Monero](http://bit.ly/1mWinCn) - [Paper](http://bit.ly/1mWijCz), [Bitcoin Talk Thread](http://bit.ly/1mWhV7g), [Github](http://bit.ly/1mWhSrP), [Blog](http://bit.ly/1mWhNV6).
 
-[Neitrino](http://www.neutrinocoin.org/) - [Paper](http://www.neutrinocoin.org/neutrino-white-paper), [Github](https://github.com/neutrinocoin), [Explorer](http://explorer.neutrinocoin.org/), [Blog](http://blog.neutrinocoin.org/).
+[Neitrino](http://bit.ly/1mWhLwp) - [Paper](http://bit.ly/1mWhHga), [Github](http://bit.ly/1mWhDgq), [Explorer](http://bit.ly/1mWhBoP), [Blog](http://bit.ly/1mWhhGD).
 
 # Аналитика
 
