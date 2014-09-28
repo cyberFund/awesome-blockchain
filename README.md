@@ -41,7 +41,7 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <a href="http://blockr.io/">Blockr</a> - Вот таким должен быть блокэсплорер. Жаль что не хватает действительно важных сетей.
 * <a href="http://coinmap.org/">Coin Map</a> - Оффлайн торговля на карте мира.
 * <a href="http://bit.ly/1s1WLVp">Angel list</a> - Криптостартапы - как грибы после дождя.
-* <a href="https://bitcoinstarter.com/">Bitcoin Starter</a> - Не совсем трушный биткоин краудфандинг.
+* <a href="http://openfxmarket.com/">OpenFXMarket</a> - Рыночные индексы мира криптовалют, по капитализации и алгоритмам
 
 <h4>Медиа</h4>
 * <a href="http://bit.ly/TEPpLq">Coindesk</a> - Самый доверенный источник информации.
@@ -58,6 +58,10 @@ Digest of structured and regularly updated knowledges about crypto networks
 # Кошельки
 
 # Платежи
+
+# Краудфандинг
+
+* <a href="https://bitcoinstarter.com/">Bitcoin Starter</a> - Не совсем трушный биткоин краудфандинг.
 
 # Биржи
 
