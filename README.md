@@ -1,61 +1,57 @@
-О дайждесте
-===========
+Digest of structured and regularly updated knowledges about crypto networks
 
-На хабре последнее время стало достаточно много интересных тематических дайждестов. Хотим продолжить эту верную традицию. 
-Мы с ребятами достаточно глубоко погрузились в Биткоин, и созданный им удивительный мир интеллектуальных сетей.
-Мы постараемся делиться интересностями в этом дайджесте. Периодичность утрясется сама собой. Предложения - кому удобно - в комментариях, а кто поглубже - на Github. Дайджест автособирается в книгу при помощи Gitbook.
+Очень странно что на Хабре не развивается тема криптовалютных сетей. Эти сети сейчас активно развиваются и этому есть целая вселенная причин. По моему скромному мнению эти системы со временем свернут голову каждому без исключения разработчику по одной простой причине - они позволяют делать такие штуки, которые раньше было делать невозможно. После трех лет изучения того, как работает Биткоин автору стало очевидно, что криптовалютная составляющая - это верхушка айсберга. А дьявол кроется в интеллекте этих сетей. Мы будем периодически выпускать обзоры. Но это будут обзоры не новостного характера, а более структурированного - ориентированного на знания. Указанный список ресурсов мы используем практически каждый день, чтобы лучше понимать как устроен весь этот зоопарк.
 
-Эволюция интеллектуальных сетей - это подборка того, с чем мы столкнулись в мире и что считаем достаточно важным. Первый выпуск будет связан скорее всего с тем, что накопилось, c самым важным, а не с самым свежем. Постепенно добавим новостной оттенок.
+Обзоры будет накапливаться на Github в Gitbook формате. Будем благодарны за помощь в создании и переводе.
 
-Куда помещать подобную подборку?
-На данный момент выбрали: Bitcoin, Сетевые технологии и, пожалуй, самое удивительное - искусственный интеллект. Об этом отдельно. Буду благодарен за предложения об оптимизиации хабов для размещения.
+<h3>Гениальные протоколы</h3>
+* <a href="http://bit.ly/1o3VjOG">Bitcoin</a> - <a href="http://bit.ly/1jMnekV">Paper</a>, <a href="http://bit.ly/1t0v5o6">Wiki</a>, <a href="http://bit.ly/1mWhgCB">Forum</a>, <a href="http://bit.ly/1xkY6cY">Explorer</a>, <a href="http://bit.ly/1mMNImg">Github</a>, <a href="http://bit.ly/TQR9BC">Blog</a>.</p>
+* <p><a href="http://bit.ly/1oqUvWY">Etherium</a> - <a href="http://bit.ly/1lVKZeG">Paper</a>, <a href="http://bit.ly/1z9II4W">Wiki</a>, <a href="http://bit.ly/1pZ557g">Forum</a>, <a href="http://bit.ly/1pL9dMo">Github</a>, <a href="http://bit.ly/1vA1IFa">Blog</a>.</p>
+* <p><a href="http://bit.ly/TELlL3">Colored Coins</a> - <a href="http://bit.ly/1mWi6PK">Paper</a>, <a href="http://bit.ly/1khjNCE">Google Group</a>, <a href="http://bit.ly/1jMoIvu">Github</a>.</p>
+<p><a href="http://bitshares-x.info/">BitsharesX</a> - <a href="http://bitshares.org/delegated-proof-of-stake/">Paper</a>, <a href="https://bitsharestalk.org/">Forum</a>, <a href="https://github.com/BitShares">Github</a>, <a href="http://bitshares.org/blog/">Blog</a>.</p>
+<p><a href="http://bit.ly/1z9JMFZ">Maidsafe</a> - <a href="http://bit.ly/1mnaGGf">Paper</a>, <a href="http://bit.ly/1rmY7MX">Wiki</a>, <a href="http://bit.ly/1lBCpx2">Development Community</a>, <a href="http://bit.ly/1o3WSMm">Github</a>, <a href="http://bit.ly/1lBCwIU">Blog</a>.</p>
+<p><a href="http://bit.ly/1j82UKP">Ripple</a> - <a href="http://bit.ly/VHi30y">Paper</a>, <a href="http://bit.ly/VgPCWy">Wiki</a>, <a href="http://bit.ly/1mb0gI1">Forum</a>, <a href="http://bit.ly/1xl2it9">Development Portal</a>, <a href="http://bit.ly/1qpTDDL">Github</a>, <a href="http://bit.ly/1iZ1wzj">Blog</a>.</p>
+<p><a href="http://bit.ly/VgQdri">Next</a> - <a href="http://bit.ly/1mb0GOS">Paper</a>, <a href="http://bit.ly/1mWkar2">Wiki</a>, <a href="http://bit.ly/1iZM6dJ">Forum</a>, <a href="http://bit.ly/TEMEcW">Explorer</a>, <a href="http://bit.ly/1pLaXFm">Bitbucket</a>, <a href="http://bit.ly/1iZ2cVk">Community</a>.</p>
+<p><a href="http://bit.ly/1mWiXQz">Counterparty</a> - <a href="http://bit.ly/1mWiWfu">Paper</a>, <a href="http://bit.ly/1mWiSfP">Wiki</a>, <a href="http://bit.ly/1mWiPjV">Forum</a>, <a href="http://bit.ly/1mWiNsv">Explorer</a>, <a href="http://bit.ly/1mWiMEQ">Github</a>.</p>
+<p><a href="http://cyberFund">cyber•Fund</a> - <a href="http://paper.cyber.fund">Paper</a>, <a href="http://wiki.cyber.fund">Wiki</a>, <a href="http://forum.cyber.fund">Forum</a>, <a href="http://blog.cyber.fund">Blog</a>, <a href="https://github.com/cyberFund">Github</a>, <a href="https://bitcointalk.org/index.php?topic=789798.msg8900550#msg8900550">Thread</a></p>
+<p>Skycoin - <a href="http://bit.ly/1lBBaxR">Papers</a>, <a href="http://bit.ly/1t0w5sB">Thread</a>, <a href="http://bit.ly/1iYYYBe">Github</a>, <a href="http://bit.ly/1z9Jcbt">Trello</a>.</p>
 
-Отдельный момент по структурированию дайджеста. Мир криптовалютных сетей оказался настолько комплексным, что все что там происходит можно классифицировать в невероятно большом количестве измерений, поэтому дайждест будет структурироваться от того, кому это надо. 
+<h3>Умные протоколы</h3>
+<p><a href="http://bit.ly/1mWinCn">Monero</a> - <a href="http://bit.ly/1mWijCz">Paper</a>, <a href="http://bit.ly/1mWhV7g">Bitcoin Talk Thread</a>, <a href="http://bit.ly/1mWhSrP">Github</a>, <a href="http://bit.ly/1mWhNV6">Blog</a>.</p>
+<p><a href="http://bit.ly/1mMPbck">Mastercoin</a> - <a href="http://bit.ly/1qSFEpl">Paper</a>, <a href="http://bit.ly/VgNApn">Wiki</a>, <a href="http://bit.ly/1mWitdg">Forum</a>, <a href="http://bit.ly/1o3Wuxs">Blog</a>, <a href="http://bit.ly/1maZaw4">Explorer</a>, <a href="http://bit.ly/1pL9U8d">Github</a>.</p>
+<p><a href="http://bit.ly/TEMUc7">Darkcoin</a>- <a href="http://bit.ly/1mMSaBi">Paper</a>, <a href="http://bit.ly/1s1RaP3">Wiki</a>, <a href="http://bit.ly/1khnHLW">Forum</a>, <a href="http://bit.ly/1pZ7YVx">Explorer</a>, <a href="http://bit.ly/1vA6Itx">Github</a>, <a href="http://bit.ly/1iZ2Lyt">Reddit</a>.</p>
+<p><a href="http://dogecoin.com/">Dogecoin</a> - <a href="http://bit.ly/1vA6Lp7">Wiki</a>, <a href="http://bit.ly/1mMSiRi">Forum</a>, <a href="http://bit.ly/1mWkO7S">Explorer</a>, <a href="http://bit.ly/1iZ2FqB">Github</a>, <a href="http://bit.ly/1qSHEhd">Blog</a>.</p>
+<p><a href="http://bit.ly/TEMW3J">Namecoin</a> - <a href="http://bit.ly/1mb1frT">Wiki</a>, <a href="http://bit.ly/1t0zZBz">Forum</a>, <a href="http://bit.ly/VHiS9A">Explorer</a>, <a href="http://bit.ly/1t0zUOi">Github</a>, <a href="http://bit.ly/VgRcrq">Reddit</a>.</p>
+<p><a href="http://bit.ly/1mWky99">Peercoin</a> - <a href="http://bit.ly/1mWkzd7">Paper</a>, <a href="http://bit.ly/1mWktCg">Wiki</a>, <a href="http://bit.ly/1mWiAFK">Forum</a>, <a href="http://bit.ly/1obYTr9">Explorer</a>, <a href="http://bit.ly/1mWkplX">Github</a>.</p>
+<p><a href="http://www.qrk.cc/">Quark</a> - <a href="http://bit.ly/1mWkbLJ">Forum</a>, <a href="http://bit.ly/1mWk6rp">Explorer</a>, <a href="http://bit.ly/1mWk4ja">Github</a>, <a href="http://bit.ly/1mWjX77">Reddit</a>.</p>
+<p><a href="http://bit.ly/1rgWa4R">Blackcoin</a> - <a href="http://bit.ly/1mWjTVa">Paper</a>, <a href="http://bit.ly/1mWjSAz">Wiki</a>, <a href="http://bit.ly/VHieZG">Reddit</a>, <a href="http://bit.ly/1mWjHoF">Explorer</a>, <a href="http://bit.ly/1mWjGBb">Github</a>.</p>
+<p><a href="http://bit.ly/1mWjEtf">Vericoin</a> - <a href="http://bit.ly/1mWjt15">Bitcoin Talk Thread</a>, <a href="http://bit.ly/1mWjl1t">Explorer</a>, <a href="http://bit.ly/1mWjjqt">Github</a>, <a href="http://bit.ly/1mMQeZA">Reddit</a>.</p>
+<p><a href="http://bit.ly/1mWiIFa">Primecoin</a> - <a href="http://bit.ly/1mWiG05">Paper</a>,<a href="http://bit.ly/1mWiC0g">Wiki</a>, <a href="http://bit.ly/1mWiAFK">Forum</a>, <a href="http://bit.ly/1mWiwpt">Explorer</a>, <a href="http://bit.ly/1mWipdm">Github</a>.</p>
+<p><a href="http://bit.ly/1mWhLwp">Neitrino</a> - <a href="http://bit.ly/1mWhHga">Paper</a>, <a href="http://bit.ly/1mWhDgq">Github</a>, <a href="http://bit.ly/1mWhBoP">Explorer</a>, <a href="http://bit.ly/1mWhhGD">Blog</a>.</p>
+<p><a href="http://bit.ly/VHiHLu">Litecoin</a> - <a href="http://bit.ly/TQTsVx">Wiki</a>, <a href="http://bit.ly/1z9LuXT">Forum</a>, <a href="http://bit.ly/1vA6nHd">Explorer</a>, <a href="http://bit.ly/1lBE3Ph">Github</a>, <a href="http://bit.ly/1jMrilb">Reddit</a>.</p>
 
-# Протоколы
-[Bitcoin](https://bitcoin.org/en/) - [Paper](https://bitcoin.org/bitcoin.pdf),([Wiki](https://en.bitcoin.it/wiki/Main_Page), [Forum](https://bitcoinfoundation.org/forum/), [Explorer](https://blockchain.info/), [Github](https://github.com/bitcoin), [Blog](https://bitcoinfoundation.org/blog/).
+<h3>Аналитика</h3>
+<a href="http://coinmarketcap.com/">Coin Market Cap</a> - пожалуй, самый надежный способ получать информацию о капитализации сетей.
+<a href="https://www.tradingview.com">Trading View</a> - удобный технический анализ в один клик.
+<a href="http://www.bitlegal.net/">Bit Legal</a> - статус отношения стран к Биткоину на карте мира.
+<a href="http://com-http.us/">Com-http</a> - Модерируемый список криптовалютного хлама.
+<a href="http://www.cryptoassetcharts.info/">Crypto Asset Charts</a> - производные криптовалютный активы.
+<a href="http://www.coinometrics.com/">Coin Metrics</a> - Очень крутая макроэкономическая информация.
+<a href="http://www.bitcoinpulse.com/">Bitcoin Pulse</a> - Много важных метрик из Биткоин сферы.
+<a href="http://blockr.io/">Blockr</a> - Вот таким должен быть блокэсплорер. Жаль что не хватает действительно важных сетей.
+<a href="http://coinmap.org/">Coin Map</a> - Оффлайн торговля на карте мира.
+<a href="http://bit.ly/1s1WLVp">Angel list</a> - Криптостартапы - как грибы после дождя.
+<a href="https://bitcoinstarter.com/">Bitcoin Starter</a> - Не совсем трушный биткоин краудфандинг.
 
-[Etherium](https://www.ethereum.org/) - - [Paper](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper),([Wiki](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Ethereum-TOC), [Forum](http://forum.ethereum.org/), [Github](https://github.com/ethereum), [Blog](https://blog.ethereum.org/).
+<h4>Медиа</h4>
+<a href="http://bit.ly/TEPpLq">Coindesk</a> - Самый доверенный источник информации.
+<a href="http://bit.ly/1pZbCPd">Bitcoin Magazine</a> - Культовый журнал.
+<a href="http://bit.ly/1o41P7P">Bitcoinist</a> - Альтернативный доверенный источник.
+<a href="https://bitcointalk.org/">Bitcoin Talk</a> - Наследственный форум. Бесценен.
 
-Skycoin - [Papers](https://github.com/skycoin/whitepapers), [Thread](http://forum.ethereum.org/), [Github](https://github.com/skycoin), [Trello](https://trello.com/b/LQd8Gz47/skycoin-development).
+<p>Тема очень объемная, сложная и нереально быстро развивающаяся. Но мы шаг за шагом соеденим все необходимые точки. Следующим выпуском мы расскажем про веб кошельки. Кандидаты: Майнинг, Алгоритмы, Механизмы доказательств, Платежи, Обменки, Банкоматы, События, Люди, Законодателсьтво. И это только самое начало.
 
-[Colored Coins](http://coloredcoins.org/) - [Paper](https://github.com/OpenAssets/open-assets-protocol/blob/master/specification.mediawiki),  [Google Group](https://groups.google.com/forum/#!forum/bitcoinx). [Github](https://github.com/bitcoinx).
-
-[Mastercoin](http://www.mastercoin.org/) - [Paper](https://github.com/mastercoin-MSC/spec), [Wiki](http://wiki.mastercoin.org/index.php/Main_Page), [Forum](http://www.mastercointalk.org/),[Blog](http://blog.mastercoin.org/), [Explorer](https://masterchain.info/), [Githib](https://github.com/mastercoin-MSC)
-
-[Maidsafe](http://maidsafe.net) - [Paper](https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md),([Wiki](hhttps://github.com/maidsafe/MaidSafe/wiki), [Forum](https://maidsafe.org), [Development Community](https://groups.google.com/forum/#!forum/maidsafe-development), [Explorer](https://ripple.com/graph), [Github](https://github.com/maidsafe), [Blog](http://blog.maidsafe.net)
-
-[Ripple](https://ripple.com) - [Paper](https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md),([Wiki](https://ripple.com/wiki), [Forum](https://ripple.com/forum/), [Development Portal](https://dev.ripple.com), [Github](https://github.com/ripple), [Blog](https://ripple.com/blog)
-
-[Next](http://www.nxt.org/) - [Paper](http://wiki.nxtcrypto.org/wiki/Whitepaper:Nxt),([Wiki](http://wiki.nxtcrypto.org/), [Forum](https://nxtforum.org/), [Explorer](http://nxtportal.org/), [Bitbucket](https://bitbucket.org/JeanLucPicard/nxt/src), [Community](http://www.nxtcommunity.org/)
-
-[Maidsafe](http://maidsafe.net/) - [Paper](https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md),([Wiki](hhttps://github.com/maidsafe/MaidSafe/wiki), [Forum](https://maidsafe.org/), [Development Community](https://groups.google.com/forum/#!forum/maidsafe-development), [Github](https://github.com/bitcoin), [Blog](http://blog.maidsafe.net/)
-
-[Litecoin](https://litecoin.org) - [Paper](?),([Wiki](https://litecoin.info), [Forum](https://litecointalk.org), [Explorer](http://ltc.block-explorer.com), [Github](https://github.com/litecoin-project), [Reddit](http://www.reddit.com/r/litecoin)
-
-[Darkcoin](https://www.darkcoin.io/)- [Paper](https://www.darkcoin.io/downloads/DarkcoinWhitepaper.pdf),([Wiki](http://wiki.darkcoin.eu), [Forum](https://darkcointalk.org), [Explorer](http://explorer.darkcoin.io), [Github](https://github.com/darkcoinproject/darkcoin), [Reddit](http://www.reddit.com/r/DRKCoin)
-
-[Dogecoin](http://dogecoin.com/) - ([Wiki](http://bit.ly/1vA6Lp7), [Forum](http://bit.ly/1mMSiRi), [Explorer](http://bit.ly/1mWkO7S), [Github](http://bit.ly/1iZ2FqB), [Blog](http://bit.ly/1qSHEhd)
-
-[Namecoin](http://bit.ly/TEMW3J) - [Wiki](http://bit.ly/1mb1frT), [Forum](http://bit.ly/1t0zZBz), [Explorer](http://bit.ly/VHiS9A), [Github](http://bit.ly/1t0zUOi), [Reddit](http://bit.ly/VgRcrq)
-
-[Peercoin](http://bit.ly/1mWky99) - [Paper](http://bit.ly/1mWkzd7),[Wiki](http://bit.ly/1mWktCg), [Forum](http://bit.ly/1mWiAFK), [Explorer](http://bit.ly/1obYTr9), [Github](http://bit.ly/1mWkplX)
-
-[Quark](http://www.qrk.cc/) - [Forum](http://bit.ly/1mWkbLJ), [Explorer](http://bit.ly/1mWk6rp), [Github](http://bit.ly/1mWk4ja), [Reddit](http://bit.ly/1mWjX77)
-
-[Blackcoin](http://bit.ly/1rgWa4R) - [Paper](http://bit.ly/1mWjTVa), [Wiki](http://bit.ly/1mWjSAz), [Reddit](http://bit.ly/VHieZG), [Explorer](http://bit.ly/1mWjHoF), [Github](http://bit.ly/1mWjGBb)
-
-[Vericoin](http://bit.ly/1mWjEtf) - [Bitcoin Talk Thread](http://bit.ly/1mWjt15), [Explorer](http://bit.ly/1mWjl1t), [Github](http://bit.ly/1mWjjqt), [Reddit](http://bit.ly/1mMQeZA)
-
-[Counterparty](http://bit.ly/1mWiXQz) - [Paper](http://bit.ly/1mWiWfu), [Wiki](http://bit.ly/1mWiSfP), [Forum](http://bit.ly/1mWiPjV), [Explorer](http://bit.ly/1mWiNsv), [Github](http://bit.ly/1mWiMEQ)
-
-[Primecoin](http://bit.ly/1mWiIFa) - [Paper](http://bit.ly/1mWiG05),([Wiki](http://bit.ly/1mWiC0g), [Forum](http://bit.ly/1mWiAFK), [Explorer](http://bit.ly/1mWiwpt), [Github](http://bit.ly/1mWipdm)
-
-[Monero](http://bit.ly/1mWinCn) - [Paper](http://bit.ly/1mWijCz), [Bitcoin Talk Thread](http://bit.ly/1mWhV7g), [Github](http://bit.ly/1mWhSrP), [Blog](http://bit.ly/1mWhNV6).
-
-[Neitrino](http://bit.ly/1mWhLwp) - [Paper](http://bit.ly/1mWhHga), [Github](http://bit.ly/1mWhDgq), [Explorer](http://bit.ly/1mWhBoP), [Blog](http://bit.ly/1mWhhGD).
-
-# Аналитика
+Для тех, кому интересно погружение в эту тему мы написали открытую научно-философскую книгу "New generation cybernetic economic system". Книга пока доступна на английском языке в <a href="http://paper.cyber.fund">Gitbook</a>, <a href="https://bookmate.com/starodubcev/xofPQRlD">Bookmate</a> и <a href="http://www.amazon.com/New-generation-cybernetic-economic-system-ebook/dp/B00NVMU5AY/ref=sr_1_1?ie=UTF8&qid=1411919649&sr=8-1&keywords=new+generation+cybernetic+economic+system">Amazon</a>. Будем благодарны за помощь в переводе на русский, а также помощь в редактуре английской версии. Репозиторий на <a href="https://github.com/cyberFund/cyberPaper">Github</a>.
 
 # Майнинг
 
@@ -72,22 +68,3 @@ Skycoin - [Papers](https://github.com/skycoin/whitepapers), [Thread](http://foru
 # Люди
 
 # Регулирование
-
-# Для людей:
-Blockchain Wallet - на данный момент самый компромисный хранитель для биткоинов.
-Coinbase - Можно купить, но россиянам без танцев с бубном сложно.
-Blockchain Stats
-Coinprism
-Интеллектуальные сети ранжированные по капитализации на (CoinMarketCap)[http://coinmarketcap.com]
-http://www.bitcoinpulse.com/
-
-# Для предпринимателей
-
-# Для разработчиков
-Bitcoin. Paper. Foundation. Github. 
-Etherium. Paper. Foundation. Github.
-Ripple. Paper. Foundation. Github.
-MaidSafe. Paper. Foundation. Github.
-Mastercoin. Paper. Foundation. Github.
-https://cryptonote.org/
-
