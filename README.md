@@ -15,9 +15,9 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <p><a href="http://bit.ly/1mWiXQz">Counterparty</a> - <a href="http://bit.ly/1mWiWfu">Paper</a>, <a href="http://bit.ly/1mWiSfP">Wiki</a>, <a href="http://bit.ly/1mWiPjV">Forum</a>, <a href="http://bit.ly/1mWiNsv">Explorer</a>, <a href="http://bit.ly/1mWiMEQ">Github</a>.</p>
 * <p><a href="http://cyberFund">cyber•Fund</a> - <a href="http://paper.cyber.fund">Paper</a>, <a href="http://wiki.cyber.fund">Wiki</a>, <a href="http://forum.cyber.fund">Forum</a>, <a href="http://blog.cyber.fund">Blog</a>, <a href="https://github.com/cyberFund">Github</a>, <a href="https://bitcointalk.org/index.php?topic=789798.msg8900550#msg8900550">Thread</a></p>
 * <p>Skycoin - <a href="http://bit.ly/1lBBaxR">Papers</a>, <a href="http://bit.ly/1t0w5sB">Thread</a>, <a href="http://bit.ly/1iYYYBe">Github</a>, <a href="http://bit.ly/1z9Jcbt">Trello</a>.</p>
-
+* <p><a href="http://bit.ly/1pBAB9e">CryptoNote</a> - <a href="http://bit.ly/1nN0WE2">Paper</a>, <a href="http://bit.ly/1uVTiIZ">Bitcoin Talk Thread</a>, <a href="http://bit.ly/1sJTrmf">Github</a>, <a href="http://bit.ly/1rEuAOO">Blog</a>.</p>
+ 
 <h3>Умные протоколы</h3>
-* <p><a href="http://bit.ly/1mWinCn">Monero</a> - <a href="http://bit.ly/1mWijCz">Paper</a>, <a href="http://bit.ly/1mWhV7g">Bitcoin Talk Thread</a>, <a href="http://bit.ly/1mWhSrP">Github</a>, <a href="http://bit.ly/1mWhNV6">Blog</a>.</p>
 * <p><a href="http://bit.ly/1mMPbck">Mastercoin</a> - <a href="http://bit.ly/1qSFEpl">Paper</a>, <a href="http://bit.ly/VgNApn">Wiki</a>, <a href="http://bit.ly/1mWitdg">Forum</a>, <a href="http://bit.ly/1o3Wuxs">Blog</a>, <a href="http://bit.ly/1maZaw4">Explorer</a>, <a href="http://bit.ly/1pL9U8d">Github</a>.</p>
 * <p><a href="http://bit.ly/TEMUc7">Darkcoin</a>- <a href="http://bit.ly/1mMSaBi">Paper</a>, <a href="http://bit.ly/1s1RaP3">Wiki</a>, <a href="http://bit.ly/1khnHLW">Forum</a>, <a href="http://bit.ly/1pZ7YVx">Explorer</a>, <a href="http://bit.ly/1vA6Itx">Github</a>, <a href="http://bit.ly/1iZ2Lyt">Reddit</a>.</p>
 * <p><a href="http://dogecoin.com/">Dogecoin</a> - <a href="http://bit.ly/1vA6Lp7">Wiki</a>, <a href="http://bit.ly/1mMSiRi">Forum</a>, <a href="http://bit.ly/1mWkO7S">Explorer</a>, <a href="http://bit.ly/1iZ2FqB">Github</a>, <a href="http://bit.ly/1qSHEhd">Blog</a>.</p>
