@@ -5,7 +5,7 @@ Digest of structured and regularly updated knowledges about crypto networks
 Обзоры будет накапливаться на Github в Gitbook формате. Будем благодарны за помощь в создании и переводе.
 
 <h3>Гениальные протоколы</h3>
-* <a href="http://bit.ly/1o3VjOG">Bitcoin</a> - <a href="http://bit.ly/1jMnekV">Paper</a>, <a href="http://bit.ly/1t0v5o6">Wiki</a>, <a href="http://bit.ly/1mWhgCB">Forum</a>, <a href="http://bit.ly/1xkY6cY">Explorer</a>, <a href="http://bit.ly/1mMNImg">Github</a>, <a href="http://bit.ly/TQR9BC">Blog</a>.</p>
+* <a href="http://bit.ly/1o3VjOG">Bitcoin</a> - <a href="http://bit.ly/1jMnekV">Paper</a>, <a href="http://bit.ly/1t0v5o6">Wiki</a>, <a href="http://bit.ly/1mWhgCB">Forum</a>, <a href="http://bit.ly/1xkY6cY">Explorer</a>, <a href="http://bit.ly/1mMNImg">Github</a>, <a href="http://bit.ly/TQR9BC">Blog</a>.
 * <p><a href="http://bit.ly/1oqUvWY">Etherium</a> - <a href="http://bit.ly/1lVKZeG">Paper</a>, <a href="http://bit.ly/1z9II4W">Wiki</a>, <a href="http://bit.ly/1pZ557g">Forum</a>, <a href="http://bit.ly/1pL9dMo">Github</a>, <a href="http://bit.ly/1vA1IFa">Blog</a>.</p>
 * <p><a href="http://bit.ly/TELlL3">Colored Coins</a> - <a href="http://bit.ly/1mWi6PK">Paper</a>, <a href="http://bit.ly/1khjNCE">Google Group</a>, <a href="http://bit.ly/1jMoIvu">Github</a>.</p>
 * <p><a href="http://bitshares-x.info/">BitsharesX</a> - <a href="http://bitshares.org/delegated-proof-of-stake/">Paper</a>, <a href="https://bitsharestalk.org/">Forum</a>, <a href="https://github.com/BitShares">Github</a>, <a href="http://bitshares.org/blog/">Blog</a>.</p>
