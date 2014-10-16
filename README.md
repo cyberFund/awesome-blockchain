@@ -42,6 +42,7 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <a href="http://coinmap.org/">Coin Map</a> - Оффлайн торговля на карте мира.
 * <a href="http://bit.ly/1s1WLVp">Angel list</a> - Криптостартапы - как грибы после дождя.
 * <a href="http://openfxmarket.com/">OpenFXMarket</a> - Рыночные индексы мира криптовалют, по капитализации и алгоритмам
+* <a href="http://mapofcoins.com/">Map of Coins</a> -  Визуализация истории криптовалют, красивая инфографика
 
 <h4>Медиа</h4>
 * <a href="http://bit.ly/TEPpLq">Coindesk</a> - Самый доверенный источник информации.
