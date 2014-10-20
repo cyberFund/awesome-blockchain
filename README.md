@@ -51,7 +51,10 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <a href="http://bit.ly/TEPpLq">Coindesk</a> - Самый доверенный источник информации.
 * <a href="http://bit.ly/1pZbCPd">Bitcoin Magazine</a> - Культовый журнал.
 * <a href="http://bit.ly/1o41P7P">Bitcoinist</a> - Альтернативный доверенный источник.
+* <a href="http://cointelegraph.com/">Cointelegraph</a> - Доверенный источник информации.
 * <a href="https://bitcointalk.org/">Bitcoin Talk</a> - Наследственный форум. Бесценен.
+* <a href="https://cryptocointalk.com/">Cryptocointalk</a> - Альтернативный форум
+* <a href="http://letstalkbitcoin.com/">Let's Talk Bitcoin</a> - Ежедневный подкаст о мире криптовалют
 
 <p>Тема очень объемная, сложная и нереально быстро развивающаяся. Но мы шаг за шагом соеденим все необходимые точки. Следующим выпуском мы расскажем про веб кошельки. Кандидаты: Майнинг, Алгоритмы, Механизмы доказательств, Платежи, Обменки, Банкоматы, События, Люди, Законодателсьтво. И это только самое начало.
 
