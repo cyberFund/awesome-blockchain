@@ -66,6 +66,39 @@ Digest of structured and regularly updated knowledges about crypto networks
 
 # Биржи
 
+<h3>Гиганты</h3>
+* <p><a href="https://www.okcoin.com/">OKcoin</a></p>
+* <p><a href="https://www.huobi.com/">Huobi</a></p>
+* <p><a href="https://vip.btcchina.com/">BTC China</a></p>
+* <p><a href="https://www.bitfinex.com/">BitFinex</a></p>
+* <p><a href="https://www.bitstamp.net/">Bitstamp</a></p>
+* <p><a href="https://btc-e.com/">BTC-E</a></p>
+
+<h3>Крупные</h3>
+* <p><a href="http://www.btc38.com/">BTC38</a></p>
+* <p><a href="https://hitbtc.com/">HitBTC</a></p>
+* <p><a href="https://bter.com/">Bter</a></p>
+* <p><a href="https://www.kraken.com/">Kreken  </a></p>
+* <p><a href="https://www.cryptsy.com/">Cryptsy</a></p>
+* <p><a href="https://anxpro.com/">ANXPRO</a></p>
+* <p><a href="https://bittrex.com/">Bittrex</a></p>
+* <p><a href="https://btc100.org/">BTC100</a></p>
+* <p><a href="https://icbtrade.com/">ICB Trade</a></p>
+* <p><a href="https://www.virwox.com/">VirWox</a></p>
+* <p><a href="https://www.mintpal.com/">MintPal</a></p>
+
+<h3>Средние</h3>
+* <p><a href="https://exmo.com/">ExMo</a></p>
+* <p><a href="https://poloniex.com/">Poloniex</a></p>
+* <p><a href="https://www.ccedk.com/">CCEDK</a></p>
+* <p><a href="https://www.bitmarket.pl/">Bitmarket</a></p>
+* <p><a href="https://ybex.co/">Ybex</a></p>
+* <p><a href="https://justcoin.com/">Justcoin</a></p>
+* <p><a href="https://www.therocktrading.com/">The Rock Trading</a></p>
+* <p><a href="https://www.quadrigacx.com">QuadrigaCX</a></p>
+* <p><a href="https://indacoin.com/">Indacoin</a></p>
+* <p><a href="https://www.allcoin.com/">Allcoin</a></p>
+
 # Банкоматы
 
 # События
