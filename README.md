@@ -44,7 +44,8 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <a href="http://openfxmarket.com/">OpenFXMarket</a> - Рыночные индексы мира криптовалют, по капитализации и алгоритмам
 * <a href="http://mapofcoins.com/">Map of Coins</a> -  Визуализация истории криптовалют, красивая инфографика
 * <a href="http://cpucoinlist.com/">CPU Coin List</a> - Список криптовалют, которые можно майнить на CPU
-* <a href= "http://www.whattomine.com/">What to mine</a> - Удобный инструмент подсчета выгоды от майнинга тех или иных криптовалют. 
+* <a href= "http://www.whattomine.com/">What to mine</a> - Удобный инструмент подсчета выгоды от майнинга тех или иных криптовалют
+* < a href="http://bestcoinexchange.com/">Best Coin Exchange</a> - Рейтинг лучших криптовалютных бирж 
 
 <h3>Медиа</h3>
 * <a href="http://bit.ly/TEPpLq">Coindesk</a> - Самый доверенный источник информации.
