@@ -58,7 +58,7 @@ Digest of structured and regularly updated knowledges about crypto networks
 
 <p>Тема очень объемная, сложная и нереально быстро развивающаяся. Но мы шаг за шагом соеденим все необходимые точки. Следующим выпуском мы расскажем про веб кошельки. Кандидаты: Майнинг, Алгоритмы, Механизмы доказательств, Платежи, Обменки, Банкоматы, События, Люди, Законодателсьтво. И это только самое начало.
 
-Для тех, кому интересно погружение в эту тему мы написали открытую научно-философскую книгу "New generation cybernetic economic system". Книга пока доступна на английском языке в <a href="http://paper.cyber.fund">Gitbook</a>, <a href="https://bookmate.com/starodubcev/xofPQRlD">Bookmate</a> и <a href="http://www.amazon.com/New-generation-cybernetic-economic-system-ebook/dp/B00NVMU5AY/ref=sr_1_1?ie=UTF8&qid=1411919649&sr=8-1&keywords=new+generation+cybernetic+economic+system">Amazon</a>. Будем благодарны за помощь в переводе на русский, а также помощь в редактуре английской версии. Репозиторий на <a href="https://github.com/cyberFund/cyberPaper">Github</a>.
+Для тех, кому интересно погружение в эту тему мы написали открытую научно-философскую книгу "New generation cybernetic economic system". Книга пока доступна на английском языке в <a href="http://paper.cyber.fund">Gitbook</a>, <a href="https://bookmate.com/starodubcev/xofPQRlD">Bookmate</a> и <a href="http://www.amazon.com/New-generation-cybernetic-economic-system-ebook/dp/B00NVMU5AY/ref=sr_1_1?ie=UTF8&qid=1411919649&sr=8-1&keywords=new+generation+cybernetic+economic+system">Amazon</a>. Будем благодарны за помощь в переводе на русский, а также помощь в редактуре английской версии. Репозиторий на <a href="https://github.com/cyberFund/cyberPaper">Github</a>.</p>
 
 # Майнинг
 
@@ -68,7 +68,7 @@ Digest of structured and regularly updated knowledges about crypto networks
 
 # Краудфандинг
 
-* <a href="https://bitcoinstarter.com/">Bitcoin Starter</a> - Не совсем трушный биткоин краудфандинг.</p>
+* <p><a href="https://bitcoinstarter.com/">Bitcoin Starter</a> - Не совсем трушный биткоин краудфандинг.</p>
 
 # Биржи
 
