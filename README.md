@@ -46,7 +46,7 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <a href="http://cpucoinlist.com/">CPU Coin List</a> - Список криптовалют, которые можно майнить на CPU
 * <a href= "http://www.whattomine.com/">What to mine</a> - Удобный инструмент подсчета выгоды от майнинга тех или иных криптовалют. 
 
-<h4>Медиа</h4>
+<h3>Медиа</h3>
 * <a href="http://bit.ly/TEPpLq">Coindesk</a> - Самый доверенный источник информации.
 * <a href="http://bit.ly/1pZbCPd">Bitcoin Magazine</a> - Культовый журнал.
 * <a href="http://bit.ly/1o41P7P">Bitcoinist</a> - Альтернативный доверенный источник.
@@ -64,11 +64,11 @@ Digest of structured and regularly updated knowledges about crypto networks
 
 # Краудфандинг
 
-* <a href="https://bitcoinstarter.com/">Bitcoin Starter</a> - Не совсем трушный биткоин краудфандинг.
+* <a href="https://bitcoinstarter.com/">Bitcoin Starter</a> - Не совсем трушный биткоин краудфандинг.</p>
 
 # Биржи
 
-<h3>Гиганты</h3>
+<h4>Гиганты</h4>
 * <p><a href="https://www.okcoin.com/">OKcoin</a></p>
 * <p><a href="https://www.huobi.com/">Huobi</a></p>
 * <p><a href="https://vip.btcchina.com/">BTC China</a></p>
@@ -76,7 +76,7 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <p><a href="https://www.bitstamp.net/">Bitstamp</a></p>
 * <p><a href="https://btc-e.com/">BTC-E</a></p>
 
-<h3>Крупные</h3>
+<h4>Крупные</h4>
 * <p><a href="http://www.btc38.com/">BTC38</a></p>
 * <p><a href="https://hitbtc.com/">HitBTC</a></p>
 * <p><a href="https://bter.com/">Bter</a></p>
@@ -89,7 +89,7 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <p><a href="https://www.virwox.com/">VirWox</a></p>
 * <p><a href="https://www.mintpal.com/">MintPal</a></p>
 
-<h3>Средние</h3>
+<h4>Средние</h4>
 * <p><a href="https://exmo.com/">ExMo</a></p>
 * <p><a href="https://poloniex.com/">Poloniex</a></p>
 * <p><a href="https://www.ccedk.com/">CCEDK</a></p>
