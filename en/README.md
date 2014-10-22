@@ -1,10 +1,4 @@
-Digest of structured and regularly updated knowledges about crypto networks
-
-Очень странно что на Хабре не развивается тема криптовалютных сетей. Эти сети сейчас активно развиваются и этому есть целая вселенная причин. По моему скромному мнению эти системы со временем свернут голову каждому без исключения разработчику по одной простой причине - они позволяют делать такие штуки, которые раньше было делать невозможно. После трех лет изучения того, как работает Биткоин автору стало очевидно, что криптовалютная составляющая - это верхушка айсберга. А дьявол кроется в интеллекте этих сетей. Мы будем периодически выпускать обзоры. Но это будут обзоры не новостного характера, а более структурированного - ориентированного на знания. Указанный список ресурсов мы используем практически каждый день, чтобы лучше понимать как устроен весь этот зоопарк.
-
-Обзоры будет накапливаться на Github в Gitbook формате. Будем благодарны за помощь в создании и переводе.
-
-<h3>Гениальные протоколы</h3>
+<h3>Inginious protocols</h3>
 * <a href="http://bit.ly/1o3VjOG">Bitcoin</a> - <a href="http://bit.ly/1jMnekV">Paper</a>, <a href="http://bit.ly/1t0v5o6">Wiki</a>, <a href="http://bit.ly/1mWhgCB">Forum</a>, <a href="http://bit.ly/1xkY6cY">Explorer</a>, <a href="http://bit.ly/1mMNImg">Github</a>, <a href="http://bit.ly/TQR9BC">Blog</a>.</p>
 * <p><a href="http://bit.ly/1oqUvWY">Etherium</a> - <a href="http://bit.ly/1lVKZeG">Paper</a>, <a href="http://bit.ly/1z9II4W">Wiki</a>, <a href="http://bit.ly/1pZ557g">Forum</a>, <a href="http://bit.ly/1pL9dMo">Github</a>, <a href="http://bit.ly/1vA1IFa">Blog</a>.</p>
 * <p><a href="http://bit.ly/TELlL3">Colored Coins</a> - <a href="http://bit.ly/1mWi6PK">Paper</a>, <a href="http://bit.ly/1khjNCE">Google Group</a>, <a href="http://bit.ly/1jMoIvu">Github</a>.</p>
@@ -16,7 +10,7 @@ Digest of structured and regularly updated knowledges about crypto networks
 <p><a href="http://cyberFund">cyber•Fund</a> - <a href="http://paper.cyber.fund">Paper</a>, <a href="http://wiki.cyber.fund">Wiki</a>, <a href="http://forum.cyber.fund">Forum</a>, <a href="http://blog.cyber.fund">Blog</a>, <a href="https://github.com/cyberFund">Github</a>, <a href="https://bitcointalk.org/index.php?topic=789798.msg8900550#msg8900550">Thread</a></p>
 <p>Skycoin - <a href="http://bit.ly/1lBBaxR">Papers</a>, <a href="http://bit.ly/1t0w5sB">Thread</a>, <a href="http://bit.ly/1iYYYBe">Github</a>, <a href="http://bit.ly/1z9Jcbt">Trello</a>.</p>
 
-<h3>Умные протоколы</h3>
+<h3>Smart protocols</h3>
 <p><a href="http://bit.ly/1mWinCn">Monero</a> - <a href="http://bit.ly/1mWijCz">Paper</a>, <a href="http://bit.ly/1mWhV7g">Bitcoin Talk Thread</a>, <a href="http://bit.ly/1mWhSrP">Github</a>, <a href="http://bit.ly/1mWhNV6">Blog</a>.</p>
 <p><a href="http://bit.ly/1mMPbck">Mastercoin</a> - <a href="http://bit.ly/1qSFEpl">Paper</a>, <a href="http://bit.ly/VgNApn">Wiki</a>, <a href="http://bit.ly/1mWitdg">Forum</a>, <a href="http://bit.ly/1o3Wuxs">Blog</a>, <a href="http://bit.ly/1maZaw4">Explorer</a>, <a href="http://bit.ly/1pL9U8d">Github</a>.</p>
 <p><a href="http://bit.ly/TEMUc7">Darkcoin</a>- <a href="http://bit.ly/1mMSaBi">Paper</a>, <a href="http://bit.ly/1s1RaP3">Wiki</a>, <a href="http://bit.ly/1khnHLW">Forum</a>, <a href="http://bit.ly/1pZ7YVx">Explorer</a>, <a href="http://bit.ly/1vA6Itx">Github</a>, <a href="http://bit.ly/1iZ2Lyt">Reddit</a>.</p>
@@ -30,28 +24,24 @@ Digest of structured and regularly updated knowledges about crypto networks
 <p><a href="http://bit.ly/1mWhLwp">Neitrino</a> - <a href="http://bit.ly/1mWhHga">Paper</a>, <a href="http://bit.ly/1mWhDgq">Github</a>, <a href="http://bit.ly/1mWhBoP">Explorer</a>, <a href="http://bit.ly/1mWhhGD">Blog</a>.</p>
 <p><a href="http://bit.ly/VHiHLu">Litecoin</a> - <a href="http://bit.ly/TQTsVx">Wiki</a>, <a href="http://bit.ly/1z9LuXT">Forum</a>, <a href="http://bit.ly/1vA6nHd">Explorer</a>, <a href="http://bit.ly/1lBE3Ph">Github</a>, <a href="http://bit.ly/1jMrilb">Reddit</a>.</p>
 
-<h3>Аналитика</h3>
-<a href="http://coinmarketcap.com/">Coin Market Cap</a> - пожалуй, самый надежный способ получать информацию о капитализации сетей.
-<a href="https://www.tradingview.com">Trading View</a> - удобный технический анализ в один клик.
-<a href="http://www.bitlegal.net/">Bit Legal</a> - статус отношения стран к Биткоину на карте мира.
-<a href="http://com-http.us/">Com-http</a> - Модерируемый список криптовалютного хлама.
-<a href="http://www.cryptoassetcharts.info/">Crypto Asset Charts</a> - производные криптовалютный активы.
-<a href="http://www.coinometrics.com/">Coin Metrics</a> - Очень крутая макроэкономическая информация.
-<a href="http://www.bitcoinpulse.com/">Bitcoin Pulse</a> - Много важных метрик из Биткоин сферы.
-<a href="http://blockr.io/">Blockr</a> - Вот таким должен быть блокэсплорер. Жаль что не хватает действительно важных сетей.
-<a href="http://coinmap.org/">Coin Map</a> - Оффлайн торговля на карте мира.
-<a href="http://bit.ly/1s1WLVp">Angel list</a> - Криптостартапы - как грибы после дождя.
-<a href="https://bitcoinstarter.com/">Bitcoin Starter</a> - Не совсем трушный биткоин краудфандинг.
+<h3>Analytics</h3>
+<a href="http://coinmarketcap.com/">Coin Market Cap</a> - perhaps, the most reliable network capitalizations..
+<a href="https://www.tradingview.com">Trading View</a> - conviniet one click technical analysis.
+<a href="http://www.bitlegal.net/">Bit Legal</a> - legal status on the world map.
+<a href="http://com-http.us/">Com-http</a> - moderated UGC of cryptocurrency crap.
+<a href="http://www.cryptoassetcharts.info/">Crypto Asset Charts</a> - colored coins from everywhere.
+<a href="http://www.coinometrics.com/">Coin Metrics</a> - the most cool macro analytics.
+<a href="http://www.bitcoinpulse.com/">Bitcoin Pulse</a> - a lot of important Bitcoin metrics.
+<a href="http://blockr.io/">Blockr</a> - that is how block explorer should be. Lack of important networks.
+<a href="http://coinmap.org/">Coin Map</a> - trading in physical world.
+<a href="http://bit.ly/1s1WLVp">Angel list</a> - cryptostartups like mushrooms after rain.
+<a href="https://bitcoinstarter.com/">Bitcoin Starter</a> - the simplest crowdfunding.
 
-<h4>Медиа</h4>
-<a href="http://bit.ly/TEPpLq">Coindesk</a> - Самый доверенный источник информации.
-<a href="http://bit.ly/1pZbCPd">Bitcoin Magazine</a> - Культовый журнал.
-<a href="http://bit.ly/1o41P7P">Bitcoinist</a> - Альтернативный доверенный источник.
-<a href="https://bitcointalk.org/">Bitcoin Talk</a> - Наследственный форум. Бесценен.
-
-<p>Тема очень объемная, сложная и нереально быстро развивающаяся. Но мы шаг за шагом соеденим все необходимые точки. Следующим выпуском мы расскажем про веб кошельки. Кандидаты: Майнинг, Алгоритмы, Механизмы доказательств, Платежи, Обменки, Банкоматы, События, Люди, Законодателсьтво. И это только самое начало.
-
-Для тех, кому интересно погружение в эту тему мы написали открытую научно-философскую книгу "New generation cybernetic economic system". Книга пока доступна на английском языке в <a href="http://paper.cyber.fund">Gitbook</a>, <a href="https://bookmate.com/starodubcev/xofPQRlD">Bookmate</a> и <a href="http://www.amazon.com/New-generation-cybernetic-economic-system-ebook/dp/B00NVMU5AY/ref=sr_1_1?ie=UTF8&qid=1411919649&sr=8-1&keywords=new+generation+cybernetic+economic+system">Amazon</a>. Будем благодарны за помощь в переводе на русский, а также помощь в редактуре английской версии. Репозиторий на <a href="https://github.com/cyberFund/cyberPaper">Github</a>.
+<h4>Media</h4>
+<a href="http://bit.ly/TEPpLq">Coindesk</a> - the most trusted media.
+<a href="http://bit.ly/1pZbCPd">Bitcoin Magazine</a> - cult journal.
+<a href="http://bit.ly/1o41P7P">Bitcoinist</a> - alternative trusted source.
+<a href="https://bitcointalk.org/">Bitcoin Talk</a> - Legacy forum. Invaluable.
 
 # Майнинг
 
