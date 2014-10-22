@@ -1,0 +1,27 @@
+{
+    "links": {
+        "about": "http://cyber.fund",
+        "contribute": "https://github.com/cyberFund/cyberDigest",
+        "custom": {
+            "cyber•Fund": "http://cyber.fund"
+        },
+        "sharing": {
+            "google": "https://plus.google.com/+CyberfundIo",
+            "facebook": "https://www.facebook.com/cyberfund",
+            "twitter": "https://twitter.com/cyberfundio"
+        }
+    },
+    "plugins": [
+        "anchors",
+        "ga",
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "cyberfund"
+        },
+        "ga": {
+            "token": "UA-49238979-2"
+        }
+    }
+}
