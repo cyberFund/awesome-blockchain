@@ -1,0 +1,9 @@
+{
+  "name": "book",
+  "version": "0.0.1",
+  "dependencies": {
+    "gitbook-plugin-anchors": "^0.3.0",
+    "gitbook-plugin-ga": "*",
+    "gitbook-plugin-disqus": "*"
+  }
+}
