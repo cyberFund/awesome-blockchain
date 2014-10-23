@@ -42,19 +42,3 @@
 <a href="http://bit.ly/1pZbCPd">Bitcoin Magazine</a> - cult journal.
 <a href="http://bit.ly/1o41P7P">Bitcoinist</a> - alternative trusted source.
 <a href="https://bitcointalk.org/">Bitcoin Talk</a> - Legacy forum. Invaluable.
-
-# Майнинг
-
-# Кошельки
-
-# Платежи
-
-# Биржи
-
-# Банкоматы
-
-# События
-
-# Люди
-
-# Регулирование
