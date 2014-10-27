@@ -71,6 +71,8 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <p><a href="https://bitcoinstarter.com/">Bitcoin Starter</a> - Не совсем трушный биткоин краудфандинг.</p>
 
 # Биржи
+
+<h4>Гиганты</h4>
 <table id="exchanges">
 	<thead>
 		<td>Название</td>
@@ -81,68 +83,47 @@ Digest of structured and regularly updated knowledges about crypto networks
 	<tbody>
 		<tr>
 		  <td>OKcoin</td>
-		  <td>BTC, LTC, CNY</td>
+		  <td>CNY</td>
 		  <td>0.1%</td>
 		  <td>https://www.okcoin.com/</td>
 		</tr>
 	
 		<tr>
-		  <td></td>
-		  <td></td>
-		  <td></td>
-		  <td></td>
+		  <td>Huobi</td>
+		  <td>CNY</td>
+		  <td>0.3%-0.5%</td>
+		  <td>https://www.huobi.com/</td>
 		</tr>
 
 		<tr>
-		  <td></td>
-		  <td></td>
-		  <td></td>
-		  <td></td>
+		  <td>BTC China</td>
+		  <td>CNY</td>
+		  <td>0%</td>
+		  <td>https://vip.btcchina.com/</td>
 		</tr>
 
 		<tr>
-		  <td></td>
-		  <td></td>
-		  <td></td>
-		  <td></td>
+		  <td>BitFinex</td>
+		  <td>USD</td>
+		  <td>0.1%</td>
+		  <td>https://www.bitfinex.com/</td>
 		</tr>
 		
 		<tr>
-		  <td></td>
-		  <td></td>
-		  <td></td>
-		  <td></td>
+		  <td>Bitstamp</td>
+		  <td>EUR,GBP,USD</td>
+		  <td>0.5%</td>
+		  <td>https://www.bitstamp.net/</td>
 		</tr>
 	    
 		<tr>
-		  <td></td>
-		  <td></td>
-		  <td></td>
-		  <td></td>
+		  <td>BTC-E</td>
+		  <td>CNY,EUR,RUB,USD</td>
+		  <td>0.2%</td>
+		  <td>https://btc-e.com/</td>
 		</tr>
-
-
-
-</tbody>
-
-
-	<tr>
-		  <td></td>
-		  <td></td>
-		  <td></td>
-		  <td></td>
-		</tr>
-
-
-
+	</tbody>
 </table>
-<h4>Гиганты</h4>
-* <p><a href="https://www.okcoin.com/">OKcoin</a></p>
-* <p><a href="https://www.huobi.com/">Huobi</a></p>
-* <p><a href="https://vip.btcchina.com/">BTC China</a></p>
-* <p><a href="https://www.bitfinex.com/">BitFinex</a></p>
-* <p><a href="https://www.bitstamp.net/">Bitstamp</a></p>
-* <p><a href="https://btc-e.com/">BTC-E</a></p>
 
 <h4>Крупные</h4>
 * <p><a href="http://www.btc38.com/">BTC38</a></p>
