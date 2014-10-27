@@ -73,7 +73,7 @@ Digest of structured and regularly updated knowledges about crypto networks
 # Биржи
 
 <h4>Гиганты</h4>
-<table id="exchanges">
+<table id="exchanges_1">
 	<thead>
 		<td>Название</td>
 		<td>Валюты</td>
@@ -126,17 +126,94 @@ Digest of structured and regularly updated knowledges about crypto networks
 </table>
 
 <h4>Крупные</h4>
-* <p><a href="http://www.btc38.com/">BTC38</a></p>
-* <p><a href="https://hitbtc.com/">HitBTC</a></p>
-* <p><a href="https://bter.com/">Bter</a></p>
-* <p><a href="https://www.kraken.com/">Kreken  </a></p>
-* <p><a href="https://www.cryptsy.com/">Cryptsy</a></p>
-* <p><a href="https://anxpro.com/">ANXPRO</a></p>
-* <p><a href="https://bittrex.com/">Bittrex</a></p>
-* <p><a href="https://btc100.org/">BTC100</a></p>
-* <p><a href="https://icbtrade.com/">ICB Trade</a></p>
-* <p><a href="https://www.virwox.com/">VirWox</a></p>
-* <p><a href="https://www.mintpal.com/">MintPal</a></p>
+<table id="exchanges_2">
+	<thead>
+		<td>Название</td>
+		<td>Валюты</td>
+		<td>Комиссия</td>
+		<td>Сайт</td>
+	</thead>
+	<tbody>
+		<tr>
+		  <td>BTC38</td>
+		  <td>CNY</td>
+		  <td> 0.1%</td>
+		  <td>http://www.btc38.com/</td>
+		</tr>
+
+		<tr>
+		  <td>HitBTC</td>
+		  <td>EUR, USD</td>
+		  <td>0.1%</td>
+		  <td>https://hitbtc.com/</td>
+		</tr>
+
+		<tr>
+		  <td>Bter</td>
+		  <td>CNY,USD</td>
+		  <td>0.18%</td>
+		  <td>https://bter.com/</td>
+		</tr>
+
+		<tr>
+		  <td>Kraken</td>
+		  <td>EUR,KRW,USD</td>
+		  <td>0.2%</td>
+		  <td>https://www.kraken.com/</td>
+		</tr>
+
+		<tr>
+		  <td>Cryptsy</td>
+		  <td>USD</td>
+		  <td>0.2% - 0.3%</td>
+		  <td>https://www.cryptsy.com/</td>
+		</tr>
+
+		<tr>
+		  <td>ANXPRO</td>
+		  <td>AUD,CAD,CHF,EUR,USD</td>
+		  <td>0%</td>
+		  <td>https://anxpro.com/</td>
+		</tr>
+
+		<tr>
+		  <td>Bittrex</td>
+		  <td>USD</td>
+		  <td>0.01%-0.25%</td>
+		  <td>https://bittrex.com/</td>
+		</tr>
+
+		<tr>
+		  <td>BTC100</td>
+		  <td>CNY</td>
+		  <td>от 0%</td>
+		  <td>https://btc100.org/</td>
+		</tr>
+
+		<tr>
+		  <td>ICB Trade</td>
+		  <td>RUB</td>
+		  <td>от 0%</td>
+		  <td>https://icbtrade.com/</td>
+		</tr>
+
+		<tr>
+		  <td>VirWox</td>
+		  <td>USD, EUR,GBP,CHF</td>
+		  <td>от 1.90%</td>
+		  <td>https://www.virwox.com/</td>
+		</tr>
+		
+		<tr>
+		  <td>MintPal</td>
+		  <td></td>
+		  <td>от 0%</td>
+		  <td>https://www.mintpal.com/</td>
+		</tr>
+
+				
+	</tbody>
+</table>
 
 <h4>Средние</h4>
 * <p><a href="https://exmo.com/">ExMo</a></p>
