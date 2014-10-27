@@ -276,6 +276,80 @@ Digest of structured and regularly updated knowledges about crypto networks
 	</tbody>
 </table>
 
+<h4>Другие<h4>
+<table id="exchanges_4">
+	<thead>
+		<td>Название</td>
+		<td>Валюты</td>
+		<td>Комиссия</td>
+		<td>Сайт</td>
+	</thead>
+	<tbody>
+		<tr>
+		<tr>
+		  <td>CEX.IO</td>
+		  <td>USD</td>
+		  <td>0.2%</td>
+		  <td>https://cex.io/</td>
+		</tr>
+			<tr>
+		  <td>CoinMKT</td>
+		  <td>USD</td>
+		  <td>0.25%-0.75%</td>
+		  <td>https://coinmkt.com/</td>
+		</tr>
+			<tr>
+		  <td>CoinJar</td>
+		  <td>AUD</td>
+		  <td>1%-2%</td>
+		  <td>https://www.coinjar.com/</td>
+		</tr>
+			<tr>
+		  <td>igot</td>
+		  <td>AUD, EUR, GBP</td>
+		  <td>от 1%</td>
+		  <td>https://www.igot.com/</td>
+		</tr>
+			<tr>
+		  <td>SpectroCoin</td>
+		  <td>DKK, EUR, LTL</td>
+		  <td>от 2%</td>
+		  <td>https://spectrocoin.com</td>
+		</tr>
+			<tr>
+		  <td>Crypto Trade</td>
+		  <td>EUR, USD</td>
+		  <td>от 0,2%</td>
+		  <td>https://crypto-trade.com</td>
+		</tr>
+		<tr>
+		  <td>CoinX</td>
+		  <td>USD</td>
+		  <td>от 0,3%</td>
+		  <td>https://www.coinx.com</td>
+		</tr>
+		<tr>
+		  <td>BTC Markets</td>
+		  <td>AUD</td>
+		  <td> 0.85%-0.1%</td>
+		  <td>https://btcmarkets.net</td>
+		</tr>
+		<tr>
+		  <td>Coinbase</td>
+		  <td>jn 1%</td>
+		  <td> 1%</td>
+		  <td>https://coinbase.com</td>
+		</tr>
+		<tr>
+		  <td>Cryptonit</td>
+		  <td>EUR, USD</td>
+		  <td>0%-8%</td>
+		  <td>https://cryptonit.net</td>
+		</tr>
+					
+	</tbody>
+</table>
+
 # Банкоматы
 
 # События
