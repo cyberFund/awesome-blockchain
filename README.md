@@ -336,8 +336,8 @@ Digest of structured and regularly updated knowledges about crypto networks
 		</tr>
 		<tr>
 		  <td>Coinbase</td>
-		  <td>jn 1%</td>
-		  <td> 1%</td>
+		  <td></td>
+		  <td>от 1%</td>
 		  <td>https://coinbase.com</td>
 		</tr>
 		<tr>
