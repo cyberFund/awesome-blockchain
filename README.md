@@ -71,7 +71,71 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <p><a href="https://bitcoinstarter.com/">Bitcoin Starter</a> - Не совсем трушный биткоин краудфандинг.</p>
 
 # Биржи
+<table id="exchanges">
+	<thead>
+		<td>Название</td>
+		<td>Валюты</td>
+		<td>Комиссия</td>
+		<td>Сайт</td>
+	</thead>
+	<tbody>
+		<tr>
+		  <td>OKcoin</td>
+		  <td>BTC, LTC, CNY</td>
+		  <td>0.1%</td>
+		  <td>https://www.okcoin.com/</td>
+		</tr>
+	
+		<tr>
+		  <td></td>
+		  <td></td>
+		  <td></td>
+		  <td></td>
+		</tr>
 
+		<tr>
+		  <td></td>
+		  <td></td>
+		  <td></td>
+		  <td></td>
+		</tr>
+
+		<tr>
+		  <td></td>
+		  <td></td>
+		  <td></td>
+		  <td></td>
+		</tr>
+		
+		<tr>
+		  <td></td>
+		  <td></td>
+		  <td></td>
+		  <td></td>
+		</tr>
+	    
+		<tr>
+		  <td></td>
+		  <td></td>
+		  <td></td>
+		  <td></td>
+		</tr>
+
+
+
+</tbody>
+
+
+	<tr>
+		  <td></td>
+		  <td></td>
+		  <td></td>
+		  <td></td>
+		</tr>
+
+
+
+</table>
 <h4>Гиганты</h4>
 * <p><a href="https://www.okcoin.com/">OKcoin</a></p>
 * <p><a href="https://www.huobi.com/">Huobi</a></p>
