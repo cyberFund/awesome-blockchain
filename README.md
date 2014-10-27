@@ -118,7 +118,7 @@ Digest of structured and regularly updated knowledges about crypto networks
 	    
 		<tr>
 		  <td>BTC-E</td>
-		  <td>CNY,EUR,RUB,USD</td>
+		  <td>CNY,EUR,RUR,USD</td>
 		  <td>0.2%</td>
 		  <td>https://btc-e.com/</td>
 		</tr>
@@ -216,16 +216,65 @@ Digest of structured and regularly updated knowledges about crypto networks
 </table>
 
 <h4>Средние</h4>
-* <p><a href="https://exmo.com/">ExMo</a></p>
-* <p><a href="https://poloniex.com/">Poloniex</a></p>
-* <p><a href="https://www.ccedk.com/">CCEDK</a></p>
-* <p><a href="https://www.bitmarket.pl/">Bitmarket</a></p>
-* <p><a href="https://ybex.co/">Ybex</a></p>
-* <p><a href="https://justcoin.com/">Justcoin</a></p>
-* <p><a href="https://www.therocktrading.com/">The Rock Trading</a></p>
-* <p><a href="https://www.quadrigacx.com">QuadrigaCX</a></p>
-* <p><a href="https://indacoin.com/">Indacoin</a></p>
-* <p><a href="https://www.allcoin.com/">Allcoin</a></p>
+<table id="exchanges_3">
+	<thead>
+		<td>Название</td>
+		<td>Валюты</td>
+		<td>Комиссия</td>
+		<td>Сайт</td>
+	</thead>
+	<tbody>
+	<tr>
+		  <td>ExMo</td>
+		  <td>USD, RUR</td>
+		  <td>0.2%</td>
+		  <td>https://exmo.com/</td>
+		</tr>
+		<tr>
+		  <td>Poloniex</td>
+		  <td>USD</td>
+		  <td>0.2%</td>
+		  <td>https://poloniex.com/</td>
+		</tr>
+		<tr>
+		  <td>CCEDK</td>
+		  <td>DKK,EUR,GBP,NOK,USD</td>
+		  <td>0%-2%</td>
+		  <td>https://www.ccedk.com/</td>
+		</tr>
+		<tr>
+		  <td>Justcoin</td>
+		  <td>EUR,NOK,USD</td>
+		  <td>0% - 0.5%</td>
+		  <td>https://justcoin.com/</td>
+		</tr>
+		<tr>
+		  <td>The Rock Trading</td>
+		  <td>USD, EUR</td>
+		  <td>0.15% -1%</td>
+		  <td>https://www.therocktrading.com/</td>
+		</tr>
+		<tr>
+		  <td>QuadrigaCX</td>
+		  <td>CAD, GBP, USD</td>
+		  <td>0.5%</td>
+		  <td>https://www.quadrigacx.com</td>
+		</tr>
+		<tr>
+		  <td>Indacoin</td>
+		  <td>GBP,USD</td>
+		  <td>0%</td>
+		  <td>https://indacoin.com/</td>
+		</tr>
+		<tr>
+		  <td>Allcoin</td>
+		  <td>Только криптовалюты</td>
+		  <td>0.15%</td>
+		  <td>https://www.allcoin.com/</td>
+		</tr>
+					
+	</tbody>
+</table>
 
 # Банкоматы
 
