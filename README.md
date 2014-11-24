@@ -66,17 +66,20 @@ Digest of structured and regularly updated knowledges about crypto networks
 Для тех, кому интересно погружение в эту тему мы написали открытую научно-философскую книгу "New generation cybernetic economic system". Книга пока доступна на английском языке в <a href="http://paper.cyber.fund">Gitbook</a>, <a href="https://bookmate.com/starodubcev/xofPQRlD">Bookmate</a> и <a href="http://www.amazon.com/New-generation-cybernetic-economic-system-ebook/dp/B00NVMU5AY/ref=sr_1_1?ie=UTF8&qid=1411919649&sr=8-1&keywords=new+generation+cybernetic+economic+system">Amazon</a>. Будем благодарны за помощь в переводе на русский, а также помощь в редактуре английской версии. Репозиторий на <a href="https://github.com/cyberFund/cyberPaper">Github</a>.</p>
 
 # Майнинг
+<p></p>
 
 # Кошельки
+<p></p>
 
 # Платежи
+<p></p>
 
 # Краудфандинг
 
 * <p><a href="https://bitcoinstarter.com/">Bitcoin Starter</a> - Не совсем трушный биткоин краудфандинг.</p>
 
 # Биржи
-
+<p></p>
 <h4>Гиганты</h4>
 <table id="exchanges_1">
 	<thead>
@@ -354,12 +357,18 @@ Digest of structured and regularly updated knowledges about crypto networks
 					
 	</tbody>
 </table>
+<p></p>
 
 # Банкоматы
 
+<p><a href="http://bitcoinatmmap.com/">Bitcoin ATM map</a> - карта расположения биткоин-банкоматов по всему миру</p>
+
+
 # События
+<p></p>
 
 # Люди
+
 <h4>Разработчики</h4>
 <p><b>Сатоши Накамото (Satoshi Nakamoto)</b> – таинственный создатель Bitcoin. До сих пор доподлинно неизвестно, как на самом деле зовут этого человека, какого он пола, более того, есть множество предположений, что это не один человек, а группа лиц. Он автор исходного кода Bitcoin и владелец самого крупного Bitcoin-состояния. Не появлялся онлайн и не тратил средства со своего счета с середины 2010 года.</p>
 <p><b>Гэвин Андерсен (Gavin Andresen)</b> – руководитель исследовательских работ в Bitcoin Foundation, стоит у истоков технологии. Является ключевым человеком в сообществе, представляет Bitcoin на различных мероприятиях и всячеки способствует популяризации Bitcoin. Сатоши перед своим исчезнованием передал ему доступ к проекту на SourceForge и копию "ключа оповещения". Ключ оповещения - это инструмент, который позволяет транслировать сообщения о критических проблемах в сети всем ее клиентам.</p>
