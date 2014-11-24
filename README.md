@@ -46,6 +46,7 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <a href="http://cpucoinlist.com/">CPU Coin List</a> - Список криптовалют, которые можно майнить на CPU
 * <a href= "http://www.whattomine.com/">What to mine</a> - Удобный инструмент подсчета выгоды от майнинга тех или иных криптовалют
 * <a href="http://bestcoinexchange.com/">Best Coin Exchange</a> - Рейтинг лучших криптовалютных бирж 
+* <a href="http://www.coinfinance.com/">Coin Finance</a> - Сервис для отслеживания колебаний своего портфеля валют
 
 <h3>Медиа</h3>
 * <a href="http://bit.ly/TEPpLq">Coindesk</a> - Самый доверенный источник информации.
@@ -55,6 +56,9 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <a href="https://bitcointalk.org/">Bitcoin Talk</a> - Наследственный форум. Бесценен.
 * <a href="https://cryptocointalk.com/">Cryptocointalk</a> - Альтернативный форум
 * <a href="http://letstalkbitcoin.com/">Let's Talk Bitcoin</a> - Ежедневный подкаст о мире криптовалют
+* <a href="http://thecoinfront.com/">The Coin Front</a> - Новости мира криптовалют
+* <a href="http://BitcoinWarrior.net">Bitcoin Warrior</a> - Новости мира криптовалют
+* <a href="http://99bitcoins.com/">99 bitcoins</a> - Информационный ресурс (много гайдов и просто полезной информации)
 
 <p>Тема очень объемная, сложная и нереально быстро развивающаяся. Но мы шаг за шагом соеденим все необходимые точки. Следующим выпуском мы расскажем про веб кошельки. Кандидаты: Майнинг, Алгоритмы, Механизмы доказательств, Платежи, Обменки, Банкоматы, События, Люди, Законодателсьтво. И это только самое начало.
 
