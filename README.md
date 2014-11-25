@@ -46,7 +46,7 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <a href="http://cpucoinlist.com/">CPU Coin List</a> - Список криптовалют, которые можно майнить на CPU
 * <a href="http://bestcoinexchange.com/">Best Coin Exchange</a> - Рейтинг лучших криптовалютных бирж 
 * <a href="http://www.coinfinance.com/">Coin Finance</a> - Сервис для отслеживания колебаний своего портфеля валют
-* <a href="http://www.coinwarz.com/">Coin Warz</a> - добный инструмент подсчета выгоды от майнинга тех или иных криптовалют
+* <a href="http://www.coinwarz.com/">Coin Warz</a> - Удобный инструмент подсчета выгоды от майнинга тех или иных криптовалют
 * <a href= "http://www.whattomine.com/">What to mine</a> - Калькулятор выгоды майнинга 
 
 <h3>Медиа</h3>
