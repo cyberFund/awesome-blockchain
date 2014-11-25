@@ -69,7 +69,108 @@ Digest of structured and regularly updated knowledges about crypto networks
 <p></p>
 
 # Кошельки
-<p></p>
+<p><table id="wallets_1">
+	<thead>
+		<td> </td>
+		<td>Coinbase</td>
+		<td>Blockchain</td>
+		<td>TREZOR</td>
+		<td>MyCalium</td>
+		<td>Hive</td>
+		<td>Green Address</td>
+	</thead>
+	<tbody>
+		<tr>
+		  <td>Тип кошелька</td>
+		  <td>Горячий кошелек</td>
+		  <td>Горячий кошелек</td>
+		  <td>Холодный кошелек</td>
+		  <td>Горячий кошелек</td>
+		  <td>Горячий кошелек</td>
+		  <td>Горячий кошелек</td>
+		</tr>
+	
+		<tr>
+		  <td>Веб-интерфейс</td>
+		  <td>&#10004;.</td>
+		  <td>&#10004;</td>
+		  <td>&#10004;</td>
+		  <td>&#10008;</td>
+		  <td>&#10004;</td>
+		  <td>&#10004;</td>
+		 </tr>
+
+		<tr>
+		  <td>Мобильное приложение</td>
+		  <td>&#10004;</td>
+		  <td>&#10004;</td>
+		  <td>&#10008;</td>
+		  <td>&#10004;</td>
+		  <td>&#10004;</td>
+		  <td>&#10004;</td>
+		</tr>
+
+		<tr>
+		  <td>Десктопная версия</td>
+		  <td>&#10008;</td>
+		  <td>&#10008;</td>
+		  <td>&#10008;</td>
+		  <td>&#10008;</td>
+		  <td>&#10004;</td>
+		  <td>&#10004;</td>
+		</tr>
+		
+		<tr>
+		  <td>Независимость кошелька*</td>
+		  <td>&#10008;</td>
+		  <td>&#10008;</td>
+		  <td>&#10004;</td>
+		  <td>&#10004;</td>
+		  <td>&#10004;</td>
+		  <td> ? </td>
+		</tr>
+	    
+		<tr>
+		  <td>Приватность кошелька</td>
+		  <td>Средняя</td>
+		  <td>Слабая</td>
+		  <td>Варьируется</td>
+		  <td>Хорошая</td>
+		  <td>Слабая</td>
+		  <td>Хорошая</td>
+		</tr>
+		
+		<tr>
+		  <td>Безопасность</td>
+		  <td>Хорошая</td>
+		  <td>Хорошая</td>
+		  <td>Хорошая</td>
+		  <td>Хорошая</td>
+		  <td>Хорошая</td>
+		  <td>Хорошая</td>
+		</tr>
+		
+		<tr>
+		  <td>Легкость использования</td>
+		  <td>&#10004;</td>
+		  <td>&#10004;</td>
+		  <td>&#10004;</td>
+		  <td>&#10008;</td>
+		  <td>&#10004;</td>
+		  <td>&#10004;</td>
+		</tr>
+		<tr>
+		  <td>Сайт</td>
+		  <td> <a href="https://www.coinbase.com/">https://www.coinbase.com/</a></td>
+		  <td><a href="https://blockchain.info">https://blockchain.info</a></td>
+		  <td><a href="https://www.buytrezor.com/">https://www.buytrezor.com/</a></td>
+		  <td><a href="https://mycelium.com/">https://mycelium.com/</a></td>
+		  <td><a href="https://hivewallet.com">https://hivewallet.com</a></td>
+		  <td><a href="https://greenaddress.it/en/">https://greenaddress.it/en/</a></td>
+		</tr>
+	</tbody>
+</table></p>
+*Независимость кошелька завивит от того может ли фирма-производитель софта каким-либо образом повлиять на кошелек пользователя: удалить, переместить и т.п.
 
 # Платежи
 <p></p>
