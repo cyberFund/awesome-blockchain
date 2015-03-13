@@ -61,6 +61,13 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <a href="http://BitcoinWarrior.net">Bitcoin Warrior</a> - Новости мира криптовалют
 * <a href="http://99bitcoins.com/">99 bitcoins</a> - Информационный ресурс (много гайдов и просто полезной информации)
 
+<p>Руускоязычные источники информации</p>
+* <a href="http://bits.media/">Bits.Media</a> - Бывший btcsec.com, крупнейший ресурс, пишущий о криптовалютах на русском языке.
+* <a href="https://forum.bits.media/">Bits.Media Форум</a> - Самый крупный русскоязычный форум.
+* <a href="http://bitnovosti.com/">Bit Новости</a> - Новости мира криптогвалют.
+* <a href="http://www.coinside.ru/">Coinside</a> - "Биткоин для простых смертных".
+* <a href="http://coinspot.io/">Coinspot</a> - Новости, обзоры, гайды.
+
 <p>Тема очень объемная, сложная и нереально быстро развивающаяся. Но мы шаг за шагом соеденим все необходимые точки. Следующим выпуском мы расскажем про веб кошельки. Кандидаты: Майнинг, Алгоритмы, Механизмы доказательств, Платежи, Обменки, Банкоматы, События, Люди, Законодателсьтво. И это только самое начало.
 
 Для тех, кому интересно погружение в эту тему мы написали открытую научно-философскую книгу "New generation cybernetic economic system". Книга пока доступна на английском языке в <a href="http://paper.cyber.fund">Gitbook</a>, <a href="https://bookmate.com/starodubcev/xofPQRlD">Bookmate</a> и <a href="http://www.amazon.com/New-generation-cybernetic-economic-system-ebook/dp/B00NVMU5AY/ref=sr_1_1?ie=UTF8&qid=1411919649&sr=8-1&keywords=new+generation+cybernetic+economic+system">Amazon</a>. Будем благодарны за помощь в переводе на русский, а также помощь в редактуре английской версии. Репозиторий на <a href="https://github.com/cyberFund/cyberPaper">Github</a>.</p>
