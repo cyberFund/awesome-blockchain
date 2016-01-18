@@ -50,6 +50,7 @@ Digest of structured and regularly updated knowledges about crypto networks
 * <a href= "http://www.whattomine.com/">What to mine</a> - Калькулятор выгоды майнинга 
 
 <h3>Медиа</h3>
+* <a href="http://forklog.com/">Forklog</a> - Самый forklog источник forklog.
 * <a href="http://bit.ly/TEPpLq">Coindesk</a> - Самый доверенный источник информации.
 * <a href="http://bit.ly/1pZbCPd">Bitcoin Magazine</a> - Культовый журнал.
 * <a href="http://bit.ly/1o41P7P">Bitcoinist</a> - Альтернативный доверенный источник.
