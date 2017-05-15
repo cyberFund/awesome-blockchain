@@ -1,34 +1,66 @@
-Digest of structured and regularly updated knowledges about crypto networks
+#Knowledge base of crypto networks   
+## Genius protocols
+* [Bitcoin](https://bitcoin.org/en/) - [Paper](https://bitcoin.org/bitcoin.pdf), [Wiki](https://en.bitcoin.it/wiki/Main_Page), [Forum](https://bitcoinfoundation.org/forum), [Explorer](https://blockchain.info), [GitHub](https://github.com/bitcoin), [Blog](https://bitcoin.org/en/blog), [Releases](https://bitcoincore.org/en/releases/), [More](https://cyber.fund/system/Bitcoin).
 
-Очень странно, что на Хабре не развивается тема криптовалютных сетей. Эти сети сейчас активно развиваются, и этому есть целая вселенная причин. По моему скромному мнению, эти системы со временем свернут голову каждому без исключения разработчику по одной простой причине - они позволяют делать такие штуки, которые раньше было делать невозможно. После трех лет изучения того, как работает Биткоин, автору стало очевидно, что криптовалютная составляющая - это верхушка айсберга. А дьявол кроется в интеллекте этих сетей. Мы будем периодически выпускать обзоры. Но это будут обзоры не новостного характера, а более структурированного - ориентированного на знания. Указанный список ресурсов мы используем практически каждый день, чтобы лучше понимать как устроен весь этот зоопарк.
+* [Ethereum](https://www.ethereum.org/) - [Paper](https://github.com/ethereum/wiki/wiki/White-Paper), [Wiki](https://github.com/ethereum/wiki/wiki), [Forum](http://forum.ethereum.org/), [Explorer](https://etherscan.io/), [GitHub](https://github.com/ethereum), [Blog](https://blog.ethereum.org/), [More](https://cyber.fund/system/Ethereum).
 
-Обзоры будет накапливаться на Github в Gitbook формате. Будем благодарны за помощь в создании и переводе.
+* [BitShares](https://bitshares.org/) - [Papers](http://docs.bitshares.eu/bitshares/papers/index.html), [Forum](https://bitsharestalk.org/), [Explorer](https://cryptofresh.com/), [GitHub](https://github.com/BitShares), [Blog](https://bitshares.org/blog/).
 
-<h3>Гениальные протоколы</h3>
-* <a href="http://bit.ly/1o3VjOG">Bitcoin</a> - <a href="http://bit.ly/1jMnekV">Paper</a>, <a href="http://bit.ly/1t0v5o6">Wiki</a>, <a href="http://bit.ly/1mWhgCB">Forum</a>, <a href="http://bit.ly/1xkY6cY">Explorer</a>, <a href="http://bit.ly/1mMNImg">Github</a>, <a href="http://bit.ly/TQR9BC">Blog</a>.
-* <p><a href="http://bit.ly/1oqUvWY">Etherium</a> - <a href="http://bit.ly/1lVKZeG">Paper</a>, <a href="http://bit.ly/1z9II4W">Wiki</a>, <a href="http://bit.ly/1pZ557g">Forum</a>, <a href="http://bit.ly/1pL9dMo">Github</a>, <a href="http://bit.ly/1vA1IFa">Blog</a>.</p>
-* <p><a href="http://bit.ly/TELlL3">Colored Coins</a> - <a href="http://bit.ly/1mWi6PK">Paper</a>, <a href="http://bit.ly/1khjNCE">Google Group</a>, <a href="http://bit.ly/1jMoIvu">Github</a>.</p>
-* <p><a href="http://bitshares-x.info/">BitsharesX</a> - <a href="http://bitshares.org/delegated-proof-of-stake/">Paper</a>, <a href="https://bitsharestalk.org/">Forum</a>, <a href="https://github.com/BitShares">Github</a>, <a href="http://bitshares.org/blog/">Blog</a>.</p>
-* <p><a href="http://bit.ly/1z9JMFZ">Maidsafe</a> - <a href="http://bit.ly/1mnaGGf">Paper</a>, <a href="http://bit.ly/1rmY7MX">Wiki</a>, <a href="http://bit.ly/1lBCpx2">Development Community</a>, <a href="http://bit.ly/1o3WSMm">Github</a>, <a href="http://bit.ly/1lBCwIU">Blog</a>.</p>
-* <p><a href="http://bit.ly/1j82UKP">Ripple</a> - <a href="http://bit.ly/VHi30y">Paper</a>, <a href="http://bit.ly/VgPCWy">Wiki</a>, <a href="http://bit.ly/1mb0gI1">Forum</a>, <a href="http://bit.ly/1xl2it9">Development Portal</a>, <a href="http://bit.ly/1qpTDDL">Github</a>, <a href="http://bit.ly/1iZ1wzj">Blog</a>.</p>
-* <p><a href="http://bit.ly/VgQdri">Next</a> - <a href="http://bit.ly/1mb0GOS">Paper</a>, <a href="http://bit.ly/1mWkar2">Wiki</a>, <a href="http://bit.ly/1iZM6dJ">Forum</a>, <a href="http://bit.ly/TEMEcW">Explorer</a>, <a href="http://bit.ly/1pLaXFm">Bitbucket</a>, <a href="http://bit.ly/1iZ2cVk">Community</a>.</p>
-* <p><a href="http://bit.ly/1mWiXQz">Counterparty</a> - <a href="http://bit.ly/1mWiWfu">Paper</a>, <a href="http://bit.ly/1mWiSfP">Wiki</a>, <a href="http://bit.ly/1mWiPjV">Forum</a>, <a href="http://bit.ly/1mWiNsv">Explorer</a>, <a href="http://bit.ly/1mWiMEQ">Github</a>.</p>
-* <p><a href="http://cyber.Fund">cyber•Fund</a> - <a href="http://paper.cyber.fund">Paper</a>, <a href="http://wiki.cyber.fund">Wiki</a>, <a href="http://forum.cyber.fund">Forum</a>, <a href="http://blog.cyber.fund">Blog</a>, <a href="https://github.com/cyberFund">Github</a>, <a href="https://bitcointalk.org/index.php?topic=789798.msg8900550#msg8900550">Thread</a></p>
-* <p>Skycoin - <a href="http://bit.ly/1lBBaxR">Papers</a>, <a href="http://bit.ly/1t0w5sB">Thread</a>, <a href="http://bit.ly/1iYYYBe">Github</a>, <a href="http://bit.ly/1z9Jcbt">Trello</a>.</p>
-* <p><a href="http://bit.ly/1pBAB9e">CryptoNote</a> - <a href="http://bit.ly/1nN0WE2">Paper</a>, <a href="http://bit.ly/1voraAu">Forum</a>, <a href="http://bit.ly/1sJTrmf">Github</a>, <a href="http://bit.ly/1rEuAOO">Blog</a>.</p>
+* [Maidsafe](https://maidsafe.net/) - [Paper](https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md), [Wiki](https://safenetwork.wiki/en/Main_Page), [Development Community](https://groups.google.com/forum/#!forum/maidsafe-development), [Forum](https://safenetforum.org/), [GitHub](https://github.com/maidsafe), [Blog](https://blog.maidsafe.net/).
+
+* [Steem](https://steem.io/) - [Paper](https://steem.io/SteemWhitePaper.pdf), [Documentation](https://steem.io/documentation/), [Explorer](https://steemd.com/), [GitHub](https://github.com/steemit), [Blog](https://steemit.com/@steemitblog).
+
+* [Synereo](http://www.synereo.com/) - [Paper](https://bravenewcoin.com/assets/Whitepapers/Synereo-Decentralised-and-Distributed-Social-Network.pdf), [GitHub](https://github.com/synereo/), [Blog](https://blog.synereo.com/).
+
+* [Dash](https://www.dash.org/) - [Paper](https://www.dash.org/wp-content/uploads/2015/04/Dash-WhitepaperV1.pdf), [Wiki](https://dashpay.atlassian.net/wiki/display/DOC/Site+map), [Forum](https://www.dash.org/forum/), [Explorer](https://explorer.dash.org/chain/Dash), [GitHub](https://github.com/dashpay/dash), [Blog](https://www.dash.org/blog/), [Updates](https://www.dash.org/update/).
+
+* [Litecoin](https://litecoin.org/) - [Wiki](https://litecoin.info/), [Forum](https://litecointalk.org/), [Explorer](http://ltc.blockr.io/), [GitHub](https://github.com/litecoin-project).
+* [Factom](http://factom.org/) - [Paper](https://github.com/FactomProject/FactomDocs/blob/master/Factom_Whitepaper.pdf), [Documentation](https://github.com/FactomProject/FactomDocs), [Wiki](http://coinwik.org/Factom), [Explorer](https://explorer.factom.org/), [GitHub](https://github.com/FactomProject/), [Blog](https://www.factom.com/blog).
+
+* [Ripple](http://www.ripple.com/) - [Paper](https://ripple.com/files/ripple_solutions_guide.pdf), [Development Portal](https://ripple.com/build/), [Forum](https://forum.ripple.com/), [Charts](https://charts.ripple.com/) , [GitHub](https://github.com/ripple), [Blog](https://ripple.com/insights/).
+
+* [Augur](https://augur.net/) - [Paper](https://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf), [Documentation](http://docs.augur.net/), [GitHub](https://github.com/AugurProject), [Blog](http://blog.augur.net/).
+
+*  [NXT](http://www.nxt.org/) - [Paper](https://bravenewcoin.com/assets/Whitepapers/NxtWhitepaper-v122-rev4.pdf), [Wiki](http://wiki.nxtcrypto.org/), [Forum](https://nxtforum.org/), [Explorer](https://www.mynxt.info/blockexplorer/), [Code](https://bitbucket.org/JeanLucPicard/nxt/src).
+
+* [Monero](https://getmonero.org/) - [Wiki](https://getmonero.org/knowledge-base/moneropedia/), [Forum](https://forum.getmonero.org/), [Explorer](http://moneroblocks.info/), [Blog](https://getmonero.org/blog/).
+
+* [Blackcoin](http://blackcoin.co/) - [Paper](http://blackcoin.co/blackcoin-pos-protocol-v2-whitepaper.pdf), [Wiki](http://en.bitcoinwiki.org/Blackcoin), [GitHub](https://github.com/CoinBlack).
+## Smart protocols
+ * [Storj](https://storj.io/) - [Paper](https://storj.io/storj.pdf), [Community](https://storj.io/community.html) ,[GitHub](https://github.com/Storj/), [Blog](http://blog.storj.io/).
  
-<h3>Умные протоколы</h3>
-* <p><a href="http://bit.ly/1mMPbck">Mastercoin</a> - <a href="http://bit.ly/1qSFEpl">Paper</a>, <a href="http://bit.ly/VgNApn">Wiki</a>, <a href="http://bit.ly/1mWitdg">Forum</a>, <a href="http://bit.ly/1o3Wuxs">Blog</a>, <a href="http://bit.ly/1maZaw4">Explorer</a>, <a href="http://bit.ly/1pL9U8d">Github</a>.</p>
-* <p><a href="http://bit.ly/TEMUc7">Darkcoin</a>- <a href="http://bit.ly/1mMSaBi">Paper</a>, <a href="http://bit.ly/1s1RaP3">Wiki</a>, <a href="http://bit.ly/1khnHLW">Forum</a>, <a href="http://bit.ly/1pZ7YVx">Explorer</a>, <a href="http://bit.ly/1vA6Itx">Github</a>, <a href="http://bit.ly/1iZ2Lyt">Reddit</a>.</p>
-* <p><a href="http://dogecoin.com/">Dogecoin</a> - <a href="http://bit.ly/1vA6Lp7">Wiki</a>, <a href="http://bit.ly/1mMSiRi">Forum</a>, <a href="http://bit.ly/1mWkO7S">Explorer</a>, <a href="http://bit.ly/1iZ2FqB">Github</a>, <a href="http://bit.ly/1qSHEhd">Blog</a>.</p>
-* <p><a href="http://bit.ly/TEMW3J">Namecoin</a> - <a href="http://bit.ly/1mb1frT">Wiki</a>, <a href="http://bit.ly/1t0zZBz">Forum</a>, <a href="http://bit.ly/VHiS9A">Explorer</a>, <a href="http://bit.ly/1t0zUOi">Github</a>, <a href="http://bit.ly/VgRcrq">Reddit</a>.</p>
-* <p><a href="http://bit.ly/1mWky99">Peercoin</a> - <a href="http://bit.ly/1mWkzd7">Paper</a>, <a href="http://bit.ly/1mWktCg">Wiki</a>, <a href="http://bit.ly/1mWiAFK">Forum</a>, <a href="http://bit.ly/1obYTr9">Explorer</a>, <a href="http://bit.ly/1mWkplX">Github</a>.</p>
-* <p><a href="http://www.qrk.cc/">Quark</a> - <a href="http://bit.ly/1mWkbLJ">Forum</a>, <a href="http://bit.ly/1mWk6rp">Explorer</a>, <a href="http://bit.ly/1mWk4ja">Github</a>, <a href="http://bit.ly/1mWjX77">Reddit</a>.</p>
-* <p><a href="http://bit.ly/1rgWa4R">Blackcoin</a> - <a href="http://bit.ly/1mWjTVa">Paper</a>, <a href="http://bit.ly/1mWjSAz">Wiki</a>, <a href="http://bit.ly/VHieZG">Reddit</a>, <a href="http://bit.ly/1mWjHoF">Explorer</a>, <a href="http://bit.ly/1mWjGBb">Github</a>.</p>
-* <p><a href="http://bit.ly/1mWjEtf">Vericoin</a> - <a href="http://bit.ly/1mWjt15">Bitcoin Talk Thread</a>, <a href="http://bit.ly/1mWjl1t">Explorer</a>, <a href="http://bit.ly/1mWjjqt">Github</a>, <a href="http://bit.ly/1mMQeZA">Reddit</a>.</p>
-* <p><a href="http://bit.ly/1mWiIFa">Primecoin</a> - <a href="http://bit.ly/1mWiG05">Paper</a>,<a href="http://bit.ly/1mWiC0g">Wiki</a>, <a href="http://bit.ly/1mWiAFK">Forum</a>, <a href="http://bit.ly/1mWiwpt">Explorer</a>, <a href="http://bit.ly/1mWipdm">Github</a>.</p>
-* <p><a href="http://bit.ly/1mWhLwp">Neitrino</a> - <a href="http://bit.ly/1mWhHga">Paper</a>, <a href="http://bit.ly/1mWhDgq">Github</a>, <a href="http://bit.ly/1mWhBoP">Explorer</a>, <a href="http://bit.ly/1mWhhGD">Blog</a>.</p>
-* <p><a href="http://bit.ly/VHiHLu">Litecoin</a> - <a href="http://bit.ly/TQTsVx">Wiki</a>, <a href="http://bit.ly/1z9LuXT">Forum</a>, <a href="http://bit.ly/1vA6nHd">Explorer</a>, <a href="http://bit.ly/1lBE3Ph">Github</a>, <a href="http://bit.ly/1jMrilb">Reddit</a>.</p>
+ * [NEM](https://www.nem.io/) - [Paper](https://www.nem.io/NEM_techRef.pdf), [Wiki](http://wiki.nem.io/index.php/Main_Page), [Tutorials](https://blog.nem.io/nem-tutorial-list/), [Forum](https://forum.nem.io/), [Explorer](http://chain.nem.ninja/#/blocks/0), [GitHub](https://github.com/NemProject), [Blog](https://blog.nem.io/).
+ 
+ * [Golem](http://golemproject.net/) - [Paper](https://golem.network/doc/Golemwhitepaper.pdf),  [Wiki](https://github.com/golemfactory/golem/wiki), [Explorer](https://etherscan.io/token/Golem), [GitHub](https://github.com/golemfactory/golem), [Blog](https://blog.golemproject.net/).
+ 
+ * [Dogecoin](http://dogecoin.com/) - [Explorer](https://dogechain.info/), [GitHub](https://github.com/dogecoin/dogecoin).
+ 
+ *  [Lisk](https://lisk.io/) - [Wiki](https://github.com/LiskHQ/lisk-wiki/wiki), [Forum](https://forum.lisk.io/), [Explorer](https://explorer.lisk.io/), [GitHub](https://github.com/LiskHQ), [Blog](https://blog.lisk.io/).
+
+ * [Ethereum Classic](https://ethereumclassic.github.io/) - [Documentation](https://ethereum-classic-guide.readthedocs.io/en/latest/), [Explorer](https://gastracker.io/), [Forum](http://www.ethereumclassictalk.org/), [GitHub](https://github.com/ethereumproject), [Blog](https://ethereumclassic.github.io/blog/2017-05-01-proof-of-stake/).
+ 
+ * [Wings](https://wings.ai/) - [Paper](https://wings.ai/docs/WINGS_Whitepaper_V1.1.2_en.pdf), [GitHub](https://github.com/WingsDAO), [Blog](https://blog.wings.ai/).
+ 
+ * [Stellar](https://www.stellar.org/) - [Paper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf), [Documentation](https://www.stellar.org/developers/), [Forum](https://stellar.chat/), [GitHub](https://github.com/stellar), [Blog](https://www.stellar.org/blog/).
+ 
+ * [Firstblood](https://firstblood.io/) - [Paper](https://github.com/Firstbloodio/white-paper/blob/master/FirstBlood_White_Paper.pdf), [Forum](https://community.firstblood.io/), [GitHub](https://github.com/Firstbloodio).
+ 
+ * [Agoras](http://www.idni.org/) - [Paper](http://tauchain.org/tauchain.pdf), [Explorer](http://omnichest.info/lookupsp.aspx?sp=58), [GitHub](https://github.com/naturalog/tauchain), [Blog](http://www.idni.org/blog).
+ 
+ * [Tether](https://tether.to/) - [Paper](https://tether.to/wp-content/uploads/2015/04/Tether-White-Paper.pdf), [Explorer](http://omnichest.info/lookupsp.aspx?sp=31).
+ 
+ * [WeTrust](https://www.wetrust.io/) - [Paper](https://github.com/WeTrustPlatform/documents/blob/master/WeTrustWhitePaper.pdf), [GitHub](https://github.com/WeTrustPlatform), [Blog](https://blog.wetrust.io/).
+ 
+ * [LBRY](https://lbry.io/) - [Explorer](https://explorer.lbry.io/), [GitHub](https://github.com/lbryio), [Blog](https://lbry.io/news).
+ 
+ * [OMNI](http://www.omni.foundation/) - [Documentation](http://mastercoin.readthedocs.io/en/latest/index.html), [Explorer](http://omnichest.info/), [Blog](https://blog.omni.foundation/).
+ 
+ * [ICONOMI](https://www.iconomi.net/) - [Paper](https://bravenewcoin.com/assets/Whitepapers/ICONOMI-Whitepaper.pdf), [Blog](https://medium.com/iconominet).
+ 
+ * [Decred](https://www.decred.org/) - [Paper](https://decred.org/dtb001.pdf), [Forum](https://forum.decred.org/), [Explorer](https://mainnet.decred.org/), [GitHub](https://github.com/decred).
+ 
+ * [Digix](https://dgx.io/) - [Paper](https://dgx.io/whitepaper.pdf), [Wiki](https://digix.groovehq.com/help_center), [GitHub](https://github.com/DigixGlobal), [Blog](https://medium.com/@digix).
+ 
 
 <h3>Аналитика</h3>
 * <a href="http://coinmarketcap.com/">Coin Market Cap</a> - пожалуй, самый надежный способ получать информацию о капитализации сетей.
